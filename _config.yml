@@ -99,7 +99,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xykklnql
 
 
 
@@ -119,7 +119,7 @@ basic theme:
   link: "#4a76ee"
   highlight: "#0c0cf2"
   background: "#ffffff"
-  light_background: "#f3f5fb"
+  light_background: "#c2c1be"
   
   mint theme:
   text: "#2c3333"
