@@ -118,8 +118,8 @@ basic theme:
   border: "#ddd"
   link: "#4a76ee"
   highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#c2c1be"
+  background: "#c2c1be"
+  light_background: "#f3f5fb"
   
   mint theme:
   text: "#2c3333"
