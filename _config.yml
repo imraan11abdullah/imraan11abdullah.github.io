@@ -114,11 +114,11 @@ colors: # this is the basic theme
 
 # A few examples. 
 basic theme:
-  text: "#1a1c20"
+  text: "##1a1c20"
   border: "#ddd"
   link: "#4a76ee"
   highlight: "#0c0cf2"
-  background: "#c2c1be"
+  background: "#ffffff"
   light_background: "#f3f5fb"
   
   mint theme:
