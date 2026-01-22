@@ -10,10 +10,10 @@ skills:
   - Engineering design process
   - Human-centred design
   - Concept development
-  - Prototyping & iteration
+  - CAD modelling (SolidWorks)
   - Materials selection
   - Technical reporting
-main-image: /weed-tool-cover.jpg
+main-image: /weed-tool-final.jpg
 ---
 
 🔗 **[CLICK HERE TO VIEW THE FULL ENGINEERING DESIGN REPORT (PDF)](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=sharing)**
@@ -26,8 +26,8 @@ under the Engineers Without Borders (EWB) Challenge. The objective was to design
 practical, affordable, and manually operated weed control multi-tool suitable for use
 in environments where access to advanced equipment and resources is limited.
 
-The project emphasised **human-centred design**, ensuring that usability, safety, and
-context-specific constraints were central to the engineering decision-making process.
+The project placed a strong emphasis on **human-centred design**, ensuring usability,
+safety, and contextual constraints informed all engineering decisions.
 
 ---
 
@@ -39,8 +39,7 @@ The key objectives of the project included:
 - Ensuring safe and ergonomic operation  
 - Designing for ease of manufacture and maintenance  
 
-Primary constraints considered during the design process were:
-
+Key constraints considered:
 - Limited access to manufacturing infrastructure  
 - Variation in user strength and experience  
 - Environmental durability and robustness  
@@ -52,45 +51,64 @@ A structured engineering design methodology was followed throughout the project:
 
 1. Problem definition and contextual analysis  
 2. Stakeholder and user needs assessment  
-3. Concept generation and comparison  
+3. Concept generation and evaluation  
 4. Preliminary material selection  
 5. Iterative refinement of the selected concept  
 
-Design decisions were guided by practicality, affordability, and alignment with the
-intended user context.
+Design decisions prioritised practicality, affordability, and real-world usability.
 
 ---
 
-## Design Development & Analysis
-Multiple design concepts were developed and evaluated against criteria such as
-functionality, manufacturability, ergonomics, durability, and cost. The final concept
-integrated multiple weed-removal functions into a single tool to improve efficiency and
-reduce reliance on specialised equipment.
+## Design Development & CAD Modelling
+Design concepts were progressively developed using **SolidWorks**, allowing key
+geometric features, functional mechanisms, and overall ergonomics to be visualised and
+refined prior to final selection.
 
-Basic engineering judgement and analysis were applied to assess structural adequacy,
-material suitability, and functional performance of the proposed design.
+SolidWorks was used to:
+- Develop and iterate design concepts  
+- Assess form, fit, and basic functionality  
+- Produce supporting drawings for communication  
 
-{% include image-gallery.html images="weed-tool-concept.jpg, weed-tool-mechanism.jpg, weed-tool-final.jpg" height="350" %}
+Basic engineering judgement was applied to assess structural adequacy, material
+suitability, and functional performance of the final design.
+
+{% include image-gallery.html images="weed-tools.jpg, weed-tool-drawings.jpg, weed-tool-final.jpg" height="350" %}
+
+---
+
+## Engineers Without Borders Context
+This project was completed under the **Engineers Without Borders Challenge**, which
+aims to develop socially responsible engineers by addressing real-world problems faced
+by communities globally.
+
+The challenge reinforced the importance of designing solutions that are not only
+technically sound, but also socially appropriate, accessible, and sustainable.
+
+🔗 [Engineers Without Borders Australia](https://www.ewb.org.au)
+
+---
+
+## Additional SolidWorks Skill Development
+Alongside this project, extensive independent SolidWorks practice was undertaken to
+build confidence in 3D modelling and design intent. This included modelling a wide
+range of geometric forms and components to develop proficiency with core CAD tools and
+workflows.
+
+🔗 **[View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing)**
 
 ---
 
 ## Outcomes & Deliverables
-The final project deliverables included:
-
+The final deliverables included:
 - A complete engineering design report  
-- Concept sketches and refined design drawings  
-- A justified final design solution aligned with project objectives and constraints  
-
-The final design demonstrated a balanced response to technical, social, and practical
-considerations.
+- Concept sketches and CAD-supported design drawings  
+- A justified final design aligned with project objectives and constraints  
 
 ---
 
 ## Key Learnings
-This project provided valuable early exposure to:
-
+This project provided early exposure to:
 - Applying the engineering design process to real-world problems  
-- The importance of human-centred design in engineering solutions  
-- Working within constraints to develop realistic and implementable designs  
-- Communicating technical ideas clearly through structured engineering reports  
-
+- The role of human-centred design in engineering solutions  
+- Developing CAD skills using SolidWorks  
+- Communicating technical ideas clearly through structured reports  
