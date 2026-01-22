@@ -16,7 +16,7 @@ skills:
 main-image: /weed-tool-final.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL ENGINEERING DESIGN REPORT (PDF)](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=sharing)**
+🔗 **[CLICK HERE TO VIEW THE FULL ENGINEERING DESIGN REPORT (PDF)](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -81,7 +81,7 @@ by communities globally.
 
 {% include image-gallery.html images="https://i.ibb.co/TDR21WKH/engineers-without-borders-logo.png" height="300" %}
 
-🔗 **[Engineers Without Borders Australia](https://www.ewb.org.au)**
+🔗 **[Engineers Without Borders Australia](https://www.ewb.org.au){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -90,7 +90,7 @@ Alongside this project, extensive independent SolidWorks practice was undertaken
 build confidence in 3D modelling and design intent through modelling a wide range of
 geometric forms and components.
 
-🔗 [View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+🔗 **[View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
