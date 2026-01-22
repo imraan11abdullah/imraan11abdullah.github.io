@@ -37,7 +37,7 @@ resume-url: https://drive.google.com/file/d/1jd4es38sGqWiVe1cIvy-5QjiAWvPWegH/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: imraan11abdullah    # www.linkedin.com/in/imraan-abdullah-aa23b7357
+  linkedin: imraan-abdullah-aa23b7357    # www.linkedin.com/in/imraan-abdullah-aa23b7357
   github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
