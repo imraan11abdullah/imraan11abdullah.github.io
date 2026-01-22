@@ -79,7 +79,7 @@ This project was completed under the **Engineers Without Borders Challenge**, wh
 aims to develop socially responsible engineers by addressing real-world problems faced
 by communities globally.
 
-{% include image-gallery.html images="/projects/2022-weed-control-multitool-project/images/ewb-challenge.jpg" height="300" %}
+{% include image-gallery.html images="https://i.ibb.co/TDR21WKH/engineers-without-borders-logo.png" height="300" %}
 
 🔗 [Engineers Without Borders Australia](https://www.ewb.org.au)
 
@@ -90,7 +90,7 @@ Alongside this project, extensive independent SolidWorks practice was undertaken
 build confidence in 3D modelling and design intent through modelling a wide range of
 geometric forms and components.
 
-🔗 **[View SolidWorks modelling practice examples](PASTE_SOLIDWORKS_FOLDER_LINK_HERE)**
+🔗 **[View SolidWorks modelling practice examples]([PASTE_SOLIDWORKS_FOLDER_LINK_HERE](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=drive_link))**
 
 ---
 
