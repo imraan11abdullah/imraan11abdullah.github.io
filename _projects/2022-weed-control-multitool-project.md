@@ -13,7 +13,7 @@ skills:
   - CAD modelling (SolidWorks)
   - Materials selection
   - Technical reporting
-main-image: /weed-tool-final.jpg
+main-image: /projects/2022-weed-control-multitool-project/images/weed-tool-final.jpg
 ---
 
 🔗 **[CLICK HERE TO VIEW THE FULL ENGINEERING DESIGN REPORT (PDF)](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=sharing)**
@@ -69,10 +69,7 @@ SolidWorks was used to:
 - Assess form, fit, and basic functionality  
 - Produce supporting drawings for communication  
 
-Basic engineering judgement was applied to assess structural adequacy, material
-suitability, and functional performance of the final design.
-
-{% include image-gallery.html images="weed-tools.jpg, weed-tool-drawings.jpg, weed-tool-final.jpg" height="350" %}
+{% include image-gallery.html images="/projects/2022-weed-control-multitool-project/images/weed-tools.jpg, /projects/2022-weed-control-multitool-project/images/weed-tool-drawings.jpg, /projects/2022-weed-control-multitool-project/images/weed-tool-final.jpg" height="350" %}
 
 ---
 
@@ -81,8 +78,7 @@ This project was completed under the **Engineers Without Borders Challenge**, wh
 aims to develop socially responsible engineers by addressing real-world problems faced
 by communities globally.
 
-The challenge reinforced the importance of designing solutions that are not only
-technically sound, but also socially appropriate, accessible, and sustainable.
+{% include image-gallery.html images="/projects/2022-weed-control-multitool-project/images/ewb-challenge.jpg" height="300" %}
 
 🔗 [Engineers Without Borders Australia](https://www.ewb.org.au)
 
@@ -90,11 +86,10 @@ technically sound, but also socially appropriate, accessible, and sustainable.
 
 ## Additional SolidWorks Skill Development
 Alongside this project, extensive independent SolidWorks practice was undertaken to
-build confidence in 3D modelling and design intent. This included modelling a wide
-range of geometric forms and components to develop proficiency with core CAD tools and
-workflows.
+build confidence in 3D modelling and design intent through modelling a wide range of
+geometric forms and components.
 
-🔗 **[View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing)**
+🔗 **[View SolidWorks modelling practice examples](PASTE_SOLIDWORKS_FOLDER_LINK_HERE)**
 
 ---
 
@@ -112,3 +107,4 @@ This project provided early exposure to:
 - The role of human-centred design in engineering solutions  
 - Developing CAD skills using SolidWorks  
 - Communicating technical ideas clearly through structured reports  
+
