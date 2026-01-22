@@ -90,7 +90,7 @@ Alongside this project, extensive independent SolidWorks practice was undertaken
 build confidence in 3D modelling and design intent through modelling a wide range of
 geometric forms and components.
 
-🔗 **[View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing)**
+🔗 [View SolidWorks modelling practice examples](https://drive.google.com/file/d/1wn5-k7abRPCDbUCk77eetA73uiE8ZzPt/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
