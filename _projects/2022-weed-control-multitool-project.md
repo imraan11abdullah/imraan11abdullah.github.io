@@ -13,7 +13,7 @@ skills:
   - CAD modelling (SolidWorks)
   - Materials selection
   - Technical reporting
-main-image: /projects/2022-weed-control-multitool-project/images/weed-tool-final.jpg
+main-image: _projects/2022-weed-control-multitool-project/images/weed-tool-final.jpg
 ---
 
 🔗 **[CLICK HERE TO VIEW THE FULL ENGINEERING DESIGN REPORT (PDF)](https://drive.google.com/file/d/10vV2lglIcYQShIt4jxOspCG5yWqTSjDz/view?usp=sharing)**
