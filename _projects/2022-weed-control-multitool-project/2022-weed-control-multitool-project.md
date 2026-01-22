@@ -69,7 +69,7 @@ SolidWorks was used to:
 - Assess form, fit, and basic functionality  
 - Produce supporting drawings for communication  
 
-{% include image-gallery.html images="_projects/2022-weed-control-multitool-project/weed-tool-final.jpg," height="350" %}
+{% include image-gallery.html images="_projects/2022-weed-control-multitool-project/weed-tool-final.jpg" height="350" %}
 
 ---
 
