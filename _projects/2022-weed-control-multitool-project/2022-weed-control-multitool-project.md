@@ -81,7 +81,7 @@ by communities globally.
 
 {% include image-gallery.html images="https://i.ibb.co/TDR21WKH/engineers-without-borders-logo.png" height="300" %}
 
-🔗 [Engineers Without Borders Australia](https://www.ewb.org.au)
+🔗 **[Engineers Without Borders Australia](https://www.ewb.org.au)**
 
 ---
 
