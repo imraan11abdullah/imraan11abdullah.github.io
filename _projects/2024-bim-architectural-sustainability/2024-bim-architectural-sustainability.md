@@ -40,7 +40,7 @@ The BIM model supported:
 - 3D visualisation and rendered views  
 - Clear communication of architectural design decisions  
 
-{% include image-gallery.html images="https://i.ibb.co/35CTB9jN/site-plan.jpg, https://i.ibb.co/5g9sYsXJ/floor-plan.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/35CTB9jN/site-plan.jpg, https://i.ibb.co/5g9sYsXJ/floor-plan.jpg" height="500" %}
 
 ---
 
