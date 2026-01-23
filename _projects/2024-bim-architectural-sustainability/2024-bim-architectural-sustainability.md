@@ -96,7 +96,21 @@ This project strengthened practical understanding of:
 - Using BIM as a tool for sustainable architectural design  
 - Applying passive design principles in residential buildings  
 - Evaluating indoor environmental quality holistically  
-- Communicating design intent through drawings, models, and technical reports  
+- Communicating design intent through drawings, models, and technical reports
+
+---
+
+## Green Star Sustainability Assessment
+- As part of the project, the building design was assessed against **Green Star**
+sustainability criteria to evaluate its environmental performance across key
+categories such as energy efficiency, indoor environmental quality, and resource use.
+
+The assessment process helped translate sustainability strategies into measurable
+performance outcomes and highlighted areas where design decisions directly influenced
+the building’s environmental rating.
 
 The project highlighted the value of integrating BIM and sustainability thinking early
 in the design process.
+
+{% include image-gallery.html images="https://i.ibb.co/TMRhLTfY/greeen-star.jpg" height="500" %}
+
