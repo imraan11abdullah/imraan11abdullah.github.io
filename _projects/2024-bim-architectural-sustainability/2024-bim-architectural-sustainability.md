@@ -72,7 +72,7 @@ Sun path analysis was undertaken to evaluate seasonal solar access and shading
 performance. Key living spaces were oriented to maximise natural daylight while
 limiting unwanted heat gain during warmer periods.
 
-{% include image-gallery.html images="https://i.ibb.co/NgZFqm5f/sun-path.jpg" height="700" %}
+{% include image-gallery.html images="https://i.ibb.co/999r07G5/sun-path.jpg" height="700" %}
 
 ---
 
