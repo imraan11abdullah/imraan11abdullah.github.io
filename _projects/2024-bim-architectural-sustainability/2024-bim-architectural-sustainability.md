@@ -13,10 +13,10 @@ skills:
   - Sustainable building systems
   - Environmental performance evaluation
   - Technical documentation and reporting
-main-image: /_projects/2024-bim-architectural-sustainability/images/main.jpg
+main-image: /bim-house.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](REPLACE_WITH_GOOGLE_DRIVE_LINK){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](https://drive.google.com/file/d/1kkAd-OuyExpHcf9BJrsi1qPVOxHTUXh8/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
