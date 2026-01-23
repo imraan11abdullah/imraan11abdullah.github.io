@@ -90,16 +90,6 @@ measures to mitigate them through thoughtful architectural and systems design.
 
 ---
 
-## Outcomes & Key Learnings
-This project strengthened practical understanding of:
-
-- Using BIM as a tool for sustainable architectural design  
-- Applying passive design principles in residential buildings  
-- Evaluating indoor environmental quality holistically  
-- Communicating design intent through drawings, models, and technical reports
-
----
-
 ## Green Star Sustainability Assessment
 - As part of the project, the building design was assessed against **Green Star**
 sustainability criteria to evaluate its environmental performance across key
@@ -113,4 +103,14 @@ The project highlighted the value of integrating BIM and sustainability thinking
 in the design process.
 
 {% include image-gallery.html images="https://i.ibb.co/TMRhLTfY/greeen-star.jpg" height="500" %}
+
+---
+
+## Outcomes & Key Learnings
+This project strengthened practical understanding of:
+
+- Using BIM as a tool for sustainable architectural design  
+- Applying passive design principles in residential buildings  
+- Evaluating indoor environmental quality holistically  
+- Communicating design intent through drawings, models, and technical reports
 
