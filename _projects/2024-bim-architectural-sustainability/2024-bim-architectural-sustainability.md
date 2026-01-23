@@ -16,7 +16,7 @@ skills:
 main-image: /bim-house.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](https://drive.google.com/file/d/1kkAd-OuyExpHcf9BJrsi1qPVOxHTUXh8/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](https://drive.google.com/file/d/1kkAd-OuyExpHcf9BJrsi1qPVOxHTUXh8/view?usp=drive_link){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -40,7 +40,7 @@ The BIM model supported:
 - 3D visualisation and rendered views  
 - Clear communication of architectural design decisions  
 
-{% include image-gallery.html images="site-plan.jpg, floor-plan.jpg" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/35CTB9jN/site-plan.jpg, https://i.ibb.co/5g9sYsXJ/floor-plan.jpg" height="400" %}
 
 ---
 
@@ -49,7 +49,7 @@ A series of rendered views were produced to demonstrate how the building perform
 across different seasons and times of day. These views supported analysis of daylight,
 solar exposure, and spatial quality.
 
-{% include image-gallery.html images="render-exterior.jpg, render-interior.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/mV81mKc5/render-exterior.jpg, https://i.ibb.co/GQWGK9th/render-interior.jpg" height="450" %}
 
 ---
 
@@ -72,7 +72,7 @@ Sun path analysis was undertaken to evaluate seasonal solar access and shading
 performance. Key living spaces were oriented to maximise natural daylight while
 limiting unwanted heat gain during warmer periods.
 
-{% include image-gallery.html images="sun-path.jpg" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/NgZFqm5f/sun-path.jpg" height="400" %}
 
 ---
 
@@ -100,4 +100,3 @@ This project strengthened practical understanding of:
 
 The project highlighted the value of integrating BIM and sustainability thinking early
 in the design process.
-
