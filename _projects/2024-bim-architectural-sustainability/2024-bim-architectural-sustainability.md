@@ -40,7 +40,7 @@ The BIM model supported:
 - 3D visualisation and rendered views  
 - Clear communication of architectural design decisions  
 
-{% include image-gallery.html images="https://i.ibb.co/35CTB9jN/site-plan.jpg, https://i.ibb.co/5g9sYsXJ/floor-plan.jpg" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/35CTB9jN/site-plan.jpg, https://i.ibb.co/5g9sYsXJ/floor-plan.jpg" height="600" %}
 
 ---
 
@@ -49,7 +49,7 @@ A series of rendered views were produced to demonstrate how the building perform
 across different seasons and times of day. These views supported analysis of daylight,
 solar exposure, and spatial quality.
 
-{% include image-gallery.html images="https://i.ibb.co/mV81mKc5/render-exterior.jpg, https://i.ibb.co/GQWGK9th/render-interior.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/mV81mKc5/render-exterior.jpg, https://i.ibb.co/GQWGK9th/render-interior.jpg" height="500" %}
 
 ---
 
@@ -72,7 +72,7 @@ Sun path analysis was undertaken to evaluate seasonal solar access and shading
 performance. Key living spaces were oriented to maximise natural daylight while
 limiting unwanted heat gain during warmer periods.
 
-{% include image-gallery.html images="https://i.ibb.co/NgZFqm5f/sun-path.jpg" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/NgZFqm5f/sun-path.jpg" height="700" %}
 
 ---
 
