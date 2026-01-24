@@ -4,7 +4,7 @@ title: Reinforced Concrete Slab & Beam Design
 date: 2024-05-01
 description: >
   Individual reinforced concrete slab and beam design project focusing on
-  serviceability-controlled thickness selection, gravity load assessment,
+  serviceability-controlled slab thickness selection, gravity load assessment,
   structural behaviour, and reinforcement detailing in accordance with NZS 3101.
 skills:
   - Reinforced concrete design
@@ -21,82 +21,71 @@ main-image: /slab-overview.jpg
 ---
 
 ## Project Overview
-This individual project involved the design of a **reinforced concrete one-way slab
-system supported by beams**, carried out in accordance with **NZS 3101:2006**.
-The design focused on controlling **serviceability behaviour**, assessing gravity
-loading, and detailing reinforcement based on the resulting structural actions.
-
-Rather than relying solely on software output, the project emphasised
-**first-principles understanding**, conservative assumptions, and clear justification
-of design decisions.
+This individual project involved the structural design of a **reinforced concrete
+one-way slab system supported by beams**, undertaken in accordance with
+**NZS 3101:2006**. The design focused on **serviceability behaviour**, gravity loading,
+and reinforcement detailing, with emphasis on conservative and buildable engineering
+decisions.
 
 ---
 
 ## Structural System Description
-The slab system behaves as a **one-way solid slab** spanning between reinforced
-concrete beams. Different support conditions govern the structural behaviour:
+The floor system consists of **one-way solid slabs** spanning between reinforced
+concrete beams. The support conditions vary across the floor plate:
 
-- **End bays:** One end continuous, one end pinned  
-- **Interior bays:** Both ends continuous  
+- **End spans:** One end continuous, one end pinned  
+- **Interior spans:** Both ends continuous  
 
-These conditions directly influence slab thickness requirements, bending behaviour,
-and reinforcement placement.
+These conditions govern slab thickness requirements, bending behaviour, and
+reinforcement placement.
 
-{% include image-gallery.html images="SLAB_LAYOUT.jpg, BEAM_LAYOUT.jpg" height="450" %}
-*Slab layout and beam support configuration*
+{% include image-gallery.html images="ONE_WAY_SLAB_FLOOR_PLAN.jpg" height="450" %}
+*Floor plan showing one-way slab action and beam support layout*
 
 ---
 
-## Slab Thickness Selection  
-**NZS 3101:2006 – Serviceability-Based Design**
-
-Slab thickness was governed by **deflection control requirements** using the
-span-to-depth ratios provided in  
-**NZS 3101 Section 2.4.3.1 (Slabs and beams for buildings)**.
+## Slab Thickness Selection (Serviceability)
+Slab thickness was determined using the **span-to-depth limits** specified in  
+**NZS 3101:2006 Section 2.4.3.1**, which controls deflection under service loads.
 
 Design assumptions:
-- One-way slab action  
-- Steel yield strength: **f<sub>y</sub> = 300 MPa**
-
-### Governing Span-to-Depth Criteria
+- One-way slab behaviour  
+- Reinforcing steel yield strength: **f<sub>y</sub> = 300 MPa**
 
 | Span Location | Limiting Ratio | Span (L) | Required Thickness |
 |--------------|---------------|----------|--------------------|
-| End bays | L / 30 | 3.4 m | 113.33 mm |
-| Interior bays | L / 35 | 3.0 m | 85.71 mm |
+| End spans | L / 30 | 3.4 m | 113.33 mm |
+| Interior spans | L / 35 | 3.0 m | 85.71 mm |
 
-The **end bay condition (L/30)** governed slab thickness and therefore controlled the
-overall design.
-
-{% include image-gallery.html images="NZS3101_THICKNESS_CRITERIA.jpg" height="350" %}
-*NZS 3101 serviceability criteria for slab thickness*
+The **end span condition (L/30)** governed the design.
 
 ---
 
 ### Adopted Slab Thickness
 A slab thickness of:
 
-\[
+$$
 \boxed{130 \text{ mm}}
-\]
+$$
 
 was adopted to:
-- Exceed the minimum serviceability requirement  
-- Accommodate reinforcement and concrete cover  
-- Allow for construction tolerances  
+- Exceed minimum serviceability requirements  
+- Allow for reinforcement placement and concrete cover  
+- Provide construction tolerance  
 - Maintain conservative engineering practice  
 
-Cover and reinforcement allowance:
+Reinforcement and cover allowance:
 - Top cover = 45 mm  
 - Bottom cover = 45 mm  
-- Primary reinforcement = 20 mm  
-- Secondary reinforcement = 20 mm  
+- Main reinforcement = 20 mm  
+- Thermal reinforcement = 20 mm  
 
-This ensured the slab comfortably exceeded the minimum required thickness while
-remaining practical to construct.
+$$
+45 + 45 + 20 + 20 = 130 \text{ mm}
+$$
 
-{% include image-gallery.html images="SLAB_THICKNESS_DETAIL.jpg" height="350" %}
-*Slab thickness and reinforcement cover arrangement*
+{% include image-gallery.html images="SLAB_THICKNESS_AND_COVER.jpg" height="350" %}
+*Concrete cover, main reinforcement, and thermal reinforcement arrangement*
 
 ---
 
@@ -104,36 +93,64 @@ remaining practical to construct.
 Dead load was calculated based on the adopted slab thickness and material properties.
 
 Self-weight of concrete slab:
-\[
+
+$$
 G = 25 \, \text{kN/m}^3 \times 0.130 \, \text{m} = 3.25 \, \text{kPa}
-\]
+$$
 
 Including floor finishes and allowance for partitions:
-\[
-G = 3.25 + 0.50 = \boxed{3.75 \, \text{kPa}}
-\]
 
-These actions formed the basis for assessing slab behaviour and reinforcement demand.
+$$
+G = 3.25 + 0.50 = \boxed{3.75 \, \text{kPa}}
+$$
+
+This dead load was used in determining slab actions and reinforcement demand.
 
 ---
 
 ## Structural Behaviour
 Under gravity loading, the slab experiences:
-- **Positive bending** at mid-span regions, governing bottom reinforcement  
-- **Negative bending** over continuous supports, governing top reinforcement  
-- **Peak shear forces** near supports, diminishing toward mid-span  
+- **Positive bending** at mid-span regions  
+- **Negative bending** over continuous supports  
+- **Shear forces** concentrated near supports  
 
-The distribution of these internal forces was used to identify **critical design
-locations**, rather than designing the slab uniformly along its length.
+Critical reinforcement locations were identified based on these structural actions.
 
-{% include image-gallery.html images="BENDING_AND_SHEAR_OVERVIEW.jpg" height="450" %}
-*Structural behaviour under gravity loading*
+{% include image-gallery.html images="BENDING_SHEAR_COLLAGE.jpg" height="450" %}
+*Positive bending, negative bending, and shear force positions along the slab*
 
 ---
 
-## Reinforcement Design & Detailing
-Reinforcement sizes and spacing were selected based on the governing bending moments
-at each critical location along the slab.
+## Reinforcement Classification
+Reinforcement was classified based on its structural role:
+
+- **Main reinforcement:** Resists bending moments  
+- **Thermal reinforcement:** Controls shrinkage and temperature cracking  
+- **Top reinforcement:** Resists negative bending over supports  
+- **Bottom reinforcement:** Resists positive bending at mid-span  
+
+Concrete cover was provided in accordance with durability and fire resistance
+requirements of NZS 3101.
+
+---
+
+## Anchorage & Standard Hook Design
+Reinforcement anchorage was achieved using **standard 90° hooks**, as permitted by
+NZS 3101, to ensure adequate bond and force transfer between steel and concrete.
+
+The hook detail satisfies:
+- Minimum bend diameter requirements  
+- Development length provisions  
+- Anchorage capacity under tensile force  
+
+{% include image-gallery.html images="STANDARD_90_DEGREE_HOOK.jpg" height="350" %}
+*Standard 90° hook geometry and anchorage detail*
+
+---
+
+## Final Reinforcement Design – Bar Size & Spacing
+Reinforcement sizes and spacing were selected based on governing bending moments at
+critical slab locations.
 
 | Point on Slab | Governing Moment (kN/m) | Bar Size & Spacing |
 |--------------|-------------------------|-------------------|
@@ -150,19 +167,17 @@ at each critical location along the slab.
 | D | +7.09 | D12 @ 260 mm |
 | h | -3.25 | D12 @ 260 mm |
 
-{% include image-gallery.html images="REINFORCEMENT_LAYOUT_FULL.jpg, BAR_SPACING_DETAIL.jpg" height="500" %}
-*Final reinforcement layout showing bar sizes and spacing*
+{% include image-gallery.html images="FULL_REINFORCEMENT_DETAIL.jpg" height="500" %}
+*Complete slab reinforcement layout and detailing*
 
 ---
 
 ## Engineering Conclusion
-A **130 mm thick one-way reinforced concrete slab** was designed to satisfy
-serviceability and strength requirements under gravity loading.
+A **130 mm thick reinforced concrete one-way slab** was designed to satisfy
+serviceability and strength requirements in accordance with **NZS 3101**.
 
 This project demonstrates:
-- Appropriate application of **NZS 3101 serviceability criteria**
-- Rational slab thickness selection based on governing span conditions
-- Clear understanding of slab structural behaviour
-- Reinforcement detailing aligned with calculated demands
-- Conservative and buildable engineering judgement
-
+- Rational slab thickness selection based on serviceability limits  
+- Clear understanding of slab structural behaviour  
+- Appropriate classification and detailing of reinforcement  
+- Conservative, buildable engineering judgement aligned with practice
