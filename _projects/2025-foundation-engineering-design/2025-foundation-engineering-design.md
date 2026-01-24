@@ -110,7 +110,7 @@ q_ult = 1,233.76 kN/m²
 **Design Justification:** The Meyerhof method was selected as it accounts for foundation shape factors and depth effects more accurately for square footings, providing a more realistic safety factor while still exceeding NZS 3604 requirements.
 
 {% include image-gallery.html images="https://i.ibb.co/GvVSr7Tb/terzaghi.jpg" height="300" %}
-*Terzaghi bearing capacity parameters and variable definitions*
+*Terzaghi bearing capacity parameters*
 
 ---
 
