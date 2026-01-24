@@ -4,13 +4,13 @@ title: Reinforced Concrete One-Way Slab Design – Residential Building
 date: 2025-05-10
 description: >
   Structural analysis and reinforced concrete design of a one-way slab system for a
-  residential building, including load assessment, bending and shear checks, serviceability
-  considerations, and detailing in accordance with NZS 3101 and NZS 1170.
+  residential building, including load calculations, bending and shear checks, and
+  detailing in accordance with NZS 3101 and NZS 1170.
 skills:
   - Reinforced concrete design
-  - Structural load analysis
-  - Bending and shear calculations
-  - Serviceability assessment
+  - Structural load calculations
+  - Bending moment analysis
+  - Shear capacity checks
   - NZS 3101 compliance
   - Engineering judgement
 main-image: /rc-slab-main.jpg
@@ -22,172 +22,145 @@ main-image: /rc-slab-main.jpg
 
 ## Project Overview
 This project involved the **individual structural design of a reinforced concrete one-way
-slab system** for a residential building located in **Ākitio, New Zealand**. The slab was
-designed using the **simplified method permitted under NZS 3101**, with checks carried out
-for strength, durability, and serviceability.
+slab** for a residential building located in **Ākitio, New Zealand**. The slab was designed
+using the **simplified method permitted under NZS 3101**, with full checks carried out for
+strength, durability, and serviceability.
 
-The project focused on demonstrating correct **load assessment, span configuration,
-bending moment calculation, and reinforcement detailing** in accordance with New Zealand
-standards.
-
-**Key Design Decisions:**
-- **Structural System:** One-way reinforced concrete slab
-- **Concrete Strength:** 30 MPa
-- **Reinforcement Grade:** 300E
-- **Design Working Life:** 50 years
-- **Selected Slab Thickness:** 130 mm
+**Key Design Inputs:**
+- Concrete strength, f'c = 30 MPa  
+- Reinforcement grade = 300E  
+- Design working life = 50 years  
+- Selected slab thickness = 130 mm  
 
 {% include image-gallery.html images="FLOOR_PLAN_IMAGE_URL, TRIBUTARY_WIDTH_IMAGE_URL" height="500" %}
-*Floor layout and slab load distribution*
 
 ---
 
-## One-Way Slab Configuration & Span Assessment
-Initial assessment of slab spans indicated that a **three-span configuration did not satisfy**
-the simplified method requirements under **NZS 3101 Clause 6.7.2.1.1**, which limits adjacent
-span ratios to:
+## One-Way Slab Configuration
+Initial span assessment showed that a **three-span slab configuration** did not comply
+with the simplified method requirements of NZS 3101, where adjacent spans must satisfy:
 
-\[
-\frac{L_i}{L_j} \leq 1.2
-\]
+Li / Lj ≤ 1.2
 
-To comply with the standard and enable use of the simplified design method, the slab system
-was revised to a **four-span configuration**, which satisfied all span ratio criteria.
+To comply with the standard and allow use of the simplified design method, the slab was
+reconfigured to a **four-span layout**, which satisfied all span ratio requirements.
 
 {% include image-gallery.html images="SPAN_CONFIGURATION_IMAGE_URL" height="450" %}
-*Span configuration adjustment to satisfy NZS 3101 requirements*
 
 ---
 
-## Structural Load Assessment
+## Load Calculations
 
-### **Dead Load (G)**
-- Self-weight of slab:
-\[
-G_{slab} = 25 \, \text{kN/m}^3 \times 0.13 = 3.25 \, \text{kPa}
-\]
-- Finishes and superimposed dead load:
-\[
-G_{finishes} = 0.50 \, \text{kPa}
-\]
+### Dead Load (G)
+Self-weight of slab:  
+25 kN/m³ × 0.13 m = 3.25 kPa  
 
-\[
-\boxed{G = 3.75 \, \text{kPa}}
-\]
+Finishes and superimposed dead load:  
+= 0.50 kPa  
 
-### **Live Load (Q)**
-Residential occupancy (NZS 1170.1):
+Total dead load:  
+G = 3.25 + 0.50  
+G = **3.75 kPa**
 
-\[
-\boxed{Q = 1.5 \, \text{kPa}}
-\]
+### Live Load (Q)
+Residential live load (NZS 1170.1):  
+Q = **1.5 kPa**
 
-### **Ultimate Limit State Load**
-\[
-W = 1.2G + 1.5Q
-\]
-\[
-W = 1.2(3.75) + 1.5(1.5) = \boxed{6.75 \, \text{kPa}}
-\]
+### Ultimate Limit State Load
+ULS combination:  
+1.2G + 1.5Q  
+
+= 1.2(3.75) + 1.5(1.5)  
+= 4.50 + 2.25  
+= **6.75 kPa**
 
 ---
 
-## Bending Moment Analysis
-Bending moments were calculated using the **simplified moment coefficients** provided in
-NZS 3101 for continuous one-way slabs.
+## Bending Moment Calculations
+Bending moments were calculated using the simplified coefficients from NZS 3101.
 
-### **Positive Bending Moment**
-\[
-M^+ = \frac{W L^2}{11}
-\]
-\[
-M^+ = \frac{6.75 \times 3.4^2}{11} = \boxed{7.09 \, \text{kN·m/m}}
-\]
+Effective span length:  
+L = 3.4 m  
 
-### **Negative Bending Moment**
-\[
-M^- = \frac{W L^2}{10} = \boxed{7.80 \, \text{kN·m/m}}
-\]
+### Positive Bending Moment
+M+ = WL² / 11  
+
+= 6.75 × 3.4² / 11  
+= 6.75 × 11.56 / 11  
+= **7.09 kN·m/m**
+
+### Negative Bending Moment
+M− = WL² / 10  
+
+= 6.75 × 3.4² / 10  
+= **7.80 kN·m/m**
 
 {% include image-gallery.html images="BENDING_MOMENT_IMAGE_URL" height="500" %}
-*Positive and negative bending moment envelopes*
 
 ---
 
 ## Reinforcement Design
 
-### **Effective Depth**
-\[
-d = 130 - 45 - \frac{20}{2} = \boxed{75 \, \text{mm}}
-\]
+### Effective Depth
+Overall slab thickness = 130 mm  
+Concrete cover = 45 mm  
+Bar diameter = 20 mm  
 
-### **Required Steel Area**
-Reinforcement ratios were calculated using:
+Effective depth:  
+d = 130 − 45 − (20 / 2)  
+d = **75 mm**
 
-\[
-\rho = \frac{M^*}{\phi \cdot 0.925 \cdot b \cdot d^2 \cdot f_y}
-\]
+### Reinforcement Selection
+Reinforcement was selected to resist calculated bending moments while satisfying minimum
+reinforcement requirements of NZS 3101.
 
-Minimum reinforcement requirements were checked in accordance with **NZS 3101 Clause 9.3.8**.
-
-### **Final Reinforcement Selection**
-
-| Location | Design Moment (kN·m/m) | Reinforcement |
-|--------|------------------------|---------------|
-| End spans (+/–) | 7.09 | D12 @ 260 mm |
-| Interior supports | 7.80 | D16 @ 260 mm |
+| Location | Design Moment | Reinforcement |
+|--------|---------------|---------------|
+| End spans (+/−) | 7.09 kN·m/m | D12 @ 260 mm |
+| Interior supports | 7.80 kN·m/m | D16 @ 260 mm |
 | Shrinkage & temperature | — | D10 @ 390 mm |
 
 {% include image-gallery.html images="REINFORCEMENT_DETAIL_IMAGE_URL" height="500" %}
-*Reinforcement detailing and bar layout*
 
 ---
 
 ## Shear Capacity Check
-Maximum design shear:
+Design shear force:  
+V* = **13.19 kN**
 
-\[
-V^* = 13.19 \, \text{kN}
-\]
+Concrete shear capacity:  
+ϕVc = **46.86 kN**
 
-Concrete shear capacity:
+Check:  
+V* < ϕVc  
+13.19 < 46.86 ✓  
 
-\[
-\phi V_c = 46.86 \, \text{kN}
-\]
-
-\[
-\boxed{V^* < \phi V_c \Rightarrow \text{Shear reinforcement not required}}
-\]
-
-This confirmed that the slab thickness and reinforcement arrangement were adequate for
-shear without additional stirrups.
+Therefore, **no shear reinforcement is required**.
 
 ---
 
-## Durability & Exposure Considerations
-The site was classified as **B2 exposure** due to proximity to the coastline
+## Durability Considerations
+The site is classified as **B2 exposure** due to proximity to the coastline
 (approximately 484 m).
 
-- **Minimum cover required:** 45 mm  
-- **Durability design life:** 50 years  
+Minimum concrete cover required:  
+= **45 mm**
 
-All detailing complies with **NZS 3101 durability provisions** for coastal exposure.
+All durability requirements for a 50-year design life are satisfied in accordance with
+NZS 3101.
 
 ---
 
 ## Engineering Design Conclusion
-A **130 mm reinforced concrete one-way slab** was successfully designed using the simplified
-method in NZS 3101.
+A **130 mm reinforced concrete one-way slab** was successfully designed using the NZS 3101
+simplified method.
 
-**Design Justification:**
-1. All ULS bending and shear demands satisfied  
-2. Span configuration compliant with code limits  
-3. Reinforcement exceeds minimum strength and durability requirements  
-4. No shear reinforcement required  
-5. Practical, buildable detailing achieved  
+**Design Summary:**
+- All ULS bending and shear requirements satisfied  
+- Span configuration compliant with NZS 3101  
+- Reinforcement meets strength and durability criteria  
+- No shear reinforcement required  
+- Practical and buildable detailing achieved  
 
-This project demonstrates the application of reinforced concrete theory, structural
-code interpretation, and engineering judgement to produce a safe and efficient slab
-design suitable for residential construction.
-
+This project demonstrates sound application of reinforced concrete theory, code
+interpretation, and engineering judgement in structural slab design.
