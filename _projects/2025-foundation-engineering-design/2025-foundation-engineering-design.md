@@ -58,7 +58,7 @@ Using NZS 1170.1 standards:
 - Primary Consolidation: 1.13 cm
 - Secondary Consolidation: 0.05 cm
 
-{% include image-gallery.html images="https://i.ibb.co/WvDM8gn9/SOIL-PROFILE-TABLE-IMAGE.png" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/WvDM8gn9/SOIL-PROFILE-TABLE-IMAGE.png" height="500" %}
 *Geotechnical soil parameters and classification*
 
 ---
@@ -77,7 +77,7 @@ Using NZS 1170.1 standards:
 - **Drainage System:** Weep holes + DN110 Nexus Hiway pipes
 - **Risk Mitigation:** Geotextile filters and waterproof membrane
 
-{% include image-gallery.html images="https://i.ibb.co/PvbPQY0T/RETAINING-WALL-DRAWING-IMAGE.png, https://i.ibb.co/ZpBffRcy/RETAINING-WALL-SITE-IMAGE.png" height="500" %}
+{% include image-gallery.html images="https://i.ibb.co/PvbPQY0T/RETAINING-WALL-DRAWING-IMAGE.png, https://i.ibb.co/ZpBffRcy/RETAINING-WALL-SITE-IMAGE.png" height="550" %}
 *Technical retaining wall details and site implementation*
 
 ---
