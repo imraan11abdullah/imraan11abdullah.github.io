@@ -86,11 +86,18 @@ Using NZS 1170.1 standards:
 For design verification, Terzaghi's classical bearing capacity equation was analyzed for comparison:
 
 **Terzaghi Equation for Square Foundations:**  
-q_ult = 1.3cN_c + qN_q + 0.4γBN_γ
+For square foundations, Terzaghi's equation includes shape factors:  
+**q_ult = 1.3cN_c + qN_q + 0.4γBN_γ**
+
+Where:
+- **c** = cohesion (25 kN/m²)
+- **q** = effective stress at foundation base = γ × D_f = 24 kN/m²
+- **γ** = unit weight of soil (16 kN/m³)
+- **B** = foundation width (1.5m)
+- **N_c, N_q, N_γ** = bearing capacity factors based on φ' = 27°
 
 **Calculation with φ' = 27°:**  
 - Bearing Capacity Factors: N_c = 23.94, N_q = 13.20, N_γ = 14.47  
-- c = 25 kN/m², q = 24 kN/m², B = 1.5m, γ = 16 kN/m³  
 
 q_ult = 1.3 × 25 × 23.94 + 24 × 13.20 + 0.4 × 16 × 1.5 × 14.47  
 q_ult = 778.05 + 316.80 + 138.91  
@@ -103,7 +110,7 @@ q_ult = 1,233.76 kN/m²
 **Design Justification:** The Meyerhof method was selected as it accounts for foundation shape factors and depth effects more accurately for square footings, providing a more realistic safety factor while still exceeding NZS 3604 requirements.
 
 {% include image-gallery.html images="https://i.ibb.co/GvVSr7Tb/terzaghi.jpg" height="300" %}
-*Terzaghi bearing capacity factors and equation reference*
+*Terzaghi bearing capacity parameters and variable definitions*
 
 ---
 
