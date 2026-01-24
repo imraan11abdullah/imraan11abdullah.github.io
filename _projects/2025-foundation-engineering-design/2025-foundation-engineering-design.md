@@ -13,7 +13,7 @@ skills:
   - Seismic design
   - Retaining wall design
   - NZ standards compliance
-main-image: /foundation-main3.jpg
+main-image: /foundation-main4.jpg
 ---
 
 🔗 **[CLICK HERE TO VIEW FULL FOUNDATION ENGINEERING REPORT (PDF)](https://drive.google.com/file/d/1oKcrDK8BtXqQaG2SIB8vm-XK_d20wdxt/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
