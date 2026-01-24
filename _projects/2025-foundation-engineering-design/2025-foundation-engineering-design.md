@@ -16,7 +16,7 @@ skills:
 main-image: /foundation-main.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW FULL FOUNDATION ENGINEERING REPORT (PDF)](YOUR_GOOGLE_DRIVE_LINK_HERE){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW FULL FOUNDATION ENGINEERING REPORT (PDF)](https://drive.google.com/file/d/1oKcrDK8BtXqQaG2SIB8vm-XK_d20wdxt/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -29,7 +29,7 @@ Complete foundation engineering design for a 4-story concrete apartment building
 - **Soil Type:** Clayey SILT with organic inclusions (OL classification)
 - **Groundwater Level:** 1.75m depth
 
-{% include image-gallery.html images="FLOOR_PLAN_IMAGE_LINK_HERE, LOADS_TABLE_IMAGE_LINK_HERE" height="500" %}
+{% include image-gallery.html images="https://i.ibb.co/WpDJj8dg/FLOOR-PLAN-IMAGE.png, https://i.ibb.co/RT8gDSPV/Screenshot-2026-01-24-110501.png" height="500" %}
 *Structural floor plan and load distribution analysis*
 
 ---
@@ -58,7 +58,7 @@ Using NZS 1170.1 standards:
 - Primary Consolidation: 1.13 cm
 - Secondary Consolidation: 0.05 cm
 
-{% include image-gallery.html images="SOIL_PROFILE_TABLE_IMAGE_LINK_HERE" height="400" %}
+{% include image-gallery.html images="https://i.ibb.co/WvDM8gn9/SOIL-PROFILE-TABLE-IMAGE.png" height="400" %}
 *Geotechnical soil parameters and classification*
 
 ---
@@ -77,7 +77,7 @@ Using NZS 1170.1 standards:
 - **Drainage System:** Weep holes + DN110 Nexus Hiway pipes
 - **Risk Mitigation:** Geotextile filters and waterproof membrane
 
-{% include image-gallery.html images="RETAINING_WALL_DRAWING_IMAGE_LINK_HERE, RETAINING_WALL_SITE_IMAGE_LINK_HERE" height="500" %}
+{% include image-gallery.html images="https://i.ibb.co/PvbPQY0T/RETAINING-WALL-DRAWING-IMAGE.png, https://i.ibb.co/ZpBffRcy/RETAINING-WALL-SITE-IMAGE.png" height="500" %}
 *Technical retaining wall details and site implementation*
 
 ---
