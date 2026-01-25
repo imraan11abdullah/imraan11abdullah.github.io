@@ -20,9 +20,8 @@ The slab system was classified as a **one-way slab** based on span geometry and
 support conditions, where load transfer occurs predominantly in a single direction.
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/floor-plan-one-way-slab.jpg
+https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
 " height="500" %}
-*One-way slab layout and span direction*
 
 ---
 
@@ -50,9 +49,9 @@ This thickness:
 - Allows conservative and practical construction
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/slab-thickness-cover-bars.jpg
+https://i.ibb.co/GvXWStsB/Screenshot-2026-01-24-210117.png
 " height="450" %}
-*Slab thickness, cover, and reinforcement layers*
+*Slab thickness, reinforcement layers, and concrete cover*
 
 ---
 
@@ -91,7 +90,7 @@ Classical beam theory was applied to identify critical internal actions:
   V = wL / 2  
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/positive-negative-shear-diagram.jpg
+https://i.ibb.co/n8KvFm83/My-Simplecollage-com.jpg
 " height="500" %}
 *Positive bending, negative bending, and shear force regions*
 
@@ -106,9 +105,9 @@ Reinforcement was detailed according to its structural function:
 - **Bottom reinforcement:** resists positive bending at mid-span  
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/thermal-main-reinforcement.jpg
+https://i.ibb.co/hRbVR3r9/Screenshot-2026-01-24-210050.png
 " height="450" %}
-*Main and thermal reinforcement arrangement*
+*Main and thermal reinforcement configuration*
 
 ---
 
@@ -122,7 +121,7 @@ Hook design ensures:
 - Prevention of anchorage failure
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/90-degree-hook-detail.jpg
+https://i.ibb.co/ZpwzrY5m/Screenshot-2026-01-24-210320.png
 " height="400" %}
 *Standard 90° hook detailing*
 
@@ -148,9 +147,9 @@ locations along the slab.
 | h | −3.25 | D12 @ 260 mm |
 
 {% include image-gallery.html images="
-https://i.ibb.co/XXXX/final-slab-reinforcement-detail.jpg
+https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
 " height="550" %}
-*Final reinforcement layout and bar spacing*
+*Final slab reinforcement layout*
 
 ---
 
