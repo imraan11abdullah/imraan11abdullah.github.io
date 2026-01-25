@@ -12,7 +12,7 @@ skills:
   - Serviceability design
   - Flexural behaviour analysis
   - Reinforcement detailing
-main-image: /slab-main.jpg
+main-image: /final-slab-reinforcement.png
 ---
 
 ## Structural Layout and One-Way Action
@@ -121,8 +121,8 @@ Hook design ensures:
 - Prevention of anchorage failure
 
 {% include image-gallery.html images="
-https://i.ibb.co/ZpwzrY5m/Screenshot-2026-01-24-210320.png
-" height="400" %}
+https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
+" height="550" %}
 *Standard 90° hook detailing*
 
 ---
@@ -146,9 +146,8 @@ locations along the slab.
 | D | +7.09 | D12 @ 260 mm |
 | h | −3.25 | D12 @ 260 mm |
 
-{% include image-gallery.html images="
-https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
-" height="550" %}
+https://i.ibb.co/ZpwzrY5m/Screenshot-2026-01-24-210320.png
+" height="400" %}
 *Final slab reinforcement layout*
 
 ---
