@@ -12,7 +12,7 @@ skills:
   - Serviceability design
   - Structural load analysis
   - Reinforcement detailing
-main-image: /final-slab-reinforcement.png
+main-image: /final-slab-reinforcement.jpg
 ---
 
 ## Structural Layout and One-Way Action
