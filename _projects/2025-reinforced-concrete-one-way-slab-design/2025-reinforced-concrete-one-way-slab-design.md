@@ -4,38 +4,39 @@ title: Reinforced Concrete One-Way Slab Design
 date: 2025-06-06
 description: >
   Structural design of a reinforced concrete one-way slab in accordance with NZS 3101,
-  including slab thickness selection, gravity load assessment, reinforcement detailing,
-  and constructability considerations.
+  including slab action classification, serviceability-controlled thickness selection,
+  gravity load assessment, reinforcement design, and detailing.
 skills:
   - Reinforced concrete design
   - NZS 3101 application
   - Serviceability design
-  - Flexural behaviour analysis
+  - Structural load analysis
   - Reinforcement detailing
-main-image: /final-slab-reinforcement.png
+main-image: /slab-main.jpg
 ---
 
 ## Structural Layout and One-Way Action
-The slab system was classified as a **one-way slab** based on span geometry and
-support conditions, where load transfer occurs predominantly in a single direction.
+The slab system was classified as a **one-way slab** based on span geometry and support
+conditions. Load transfer occurs predominantly in a single direction, with the slab
+spanning between parallel supporting beams.
 
 {% include image-gallery.html images="
-https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
+https://i.ibb.co/0VfxyN2K/Structural-Layout-and-One-Way-Action.png
 " height="500" %}
+*Structural layout and one-way slab action*
 
 ---
 
 ## Slab Thickness Selection (Serviceability)
-Slab thickness was governed by **serviceability requirements**, specifically long-term
-deflection control under sustained gravity loading, in accordance with
-NZS 3101 Section 2.4.3.1.
+Slab thickness was governed by **serviceability requirements**, primarily long-term
+deflection control, in accordance with **NZS 3101:2006 Section 2.4.3.1**.
 
-The **span-to-depth method** was adopted:
+The span-to-depth ratios for solid one-way slabs were adopted:
 
 - End spans (one end continuous, one end pinned): L / 30  
 - Interior spans (both ends continuous): L / 35  
 
-The most critical span condition governs the final slab thickness.
+The most critical span condition governed the design thickness.
 
 ---
 
@@ -43,93 +44,89 @@ The most critical span condition governs the final slab thickness.
 A slab thickness of **130 mm** was adopted.
 
 This thickness:
-- Satisfies deflection limits
-- Provides adequate flexural stiffness (EI)
-- Accommodates reinforcement cover and bar diameters
-- Allows conservative and practical construction
+- Satisfies deflection control requirements  
+- Accommodates reinforcement cover and bar diameters  
+- Provides conservative structural performance  
+- Allows practical construction tolerances  
 
 {% include image-gallery.html images="
-https://i.ibb.co/GvXWStsB/Screenshot-2026-01-24-210117.png
+https://i.ibb.co/xqG9xRSs/Adopted-Slab-Thickness.png
 " height="450" %}
-*Slab thickness, reinforcement layers, and concrete cover*
+*Adopted slab thickness and reinforcement cover requirements*
 
 ---
 
 ## Gravity Load Assessment
-Dead load was calculated using the self-weight relationship for reinforced concrete.
+Dead load was calculated based on slab self-weight and permanent finishes.
 
-Self-weight equation:  
+Self-weight of reinforced concrete slab:
+
 G = γ × t  
+G = 25 kN/m³ × 0.130 m  
+G = 3.25 kPa  
 
-Where:
-- γ = 25 kN/m³ (reinforced concrete)
-- t = 0.130 m
+Including finishes and partitions:
 
-Self-weight of slab:  
-G = 25 × 0.130 = 3.25 kPa  
+G = 3.25 + 0.50  
+G = **3.75 kPa**
 
-Including finishes and partitions:  
-G = 3.25 + 0.50 = **3.75 kPa**
-
-This gravity load was used for flexural and shear demand assessment.
+This gravity load formed the basis of flexural and shear assessment.
 
 ---
 
 ## Structural Behaviour Under Load
-The slab was analysed assuming one-way bending under uniformly distributed gravity load.
+The slab was analysed using classical one-way bending theory under uniformly distributed
+gravity loading.
 
-Classical beam theory was applied to identify critical internal actions:
+Key internal actions considered:
+- **Positive bending moments** at mid-span  
+- **Negative bending moments** over continuous supports  
+- **Shear forces** near supports  
 
-- Positive bending moment at mid-span  
-  M = wL² / 8  
-
-- Negative bending moment over continuous supports  
-  M = wL² / 12  
-
-- Maximum shear near supports  
-  V = wL / 2  
+Standard elastic beam equations were used to determine critical design actions in
+accordance with NZS 3101.
 
 {% include image-gallery.html images="
-https://i.ibb.co/n8KvFm83/My-Simplecollage-com.jpg
+https://i.ibb.co/r2sLcNFV/Positive-bending-negative-bending-and-shear-force-regions.jpg
 " height="500" %}
 *Positive bending, negative bending, and shear force regions*
 
 ---
 
 ## Reinforcement Classification
-Reinforcement was detailed according to its structural function:
+Reinforcement was classified based on its structural function within the slab system:
 
 - **Main reinforcement:** resists flexural tensile stresses  
-- **Thermal reinforcement:** controls shrinkage and temperature cracking  
+- **Thermal reinforcement:** controls shrinkage and temperature effects  
 - **Top reinforcement:** resists negative bending over supports  
 - **Bottom reinforcement:** resists positive bending at mid-span  
 
 {% include image-gallery.html images="
-https://i.ibb.co/hRbVR3r9/Screenshot-2026-01-24-210050.png
+https://i.ibb.co/BH9GDpvt/Reinforcement-Classification.png
 " height="450" %}
-*Main and thermal reinforcement configuration*
+*Reinforcement classification and structural role*
 
 ---
 
-## Standard 90° Hook Detailing
+## Reinforcement Detailing and Anchorage
 Reinforcement anchorage was achieved using **standard 90° hooks** in accordance with
-NZS 3101 detailing requirements.
+NZS 3101 detailing provisions.
 
-Hook design ensures:
-- Adequate development length
-- Effective bond between steel and concrete
-- Prevention of anchorage failure
+This detailing:
+- Ensures sufficient development length  
+- Prevents bar pull-out  
+- Improves structural reliability and constructability  
 
 {% include image-gallery.html images="
-https://i.ibb.co/YB71Gb3Y/Screenshot-2026-01-24-210348.png
-" height="550" %}
+https://i.ibb.co/wNFYZrpQ/Standard-90-Hook-Detailing.png
+" height="400" %}
 *Standard 90° hook detailing*
 
 ---
 
 ## Final Reinforcement Design – Bar Size & Spacing
-Reinforcement was finalised based on calculated bending moment demand at critical
-locations along the slab.
+Final reinforcement sizes and spacing were selected based on governing bending moments
+at critical slab locations.
 
 | Slab Location | Governing Moment (kN/m) | Bar Size & Spacing |
 |--------------|-------------------------|-------------------|
@@ -146,22 +143,28 @@ locations along the slab.
 | D | +7.09 | D12 @ 260 mm |
 | h | −3.25 | D12 @ 260 mm |
 
-https://i.ibb.co/ZpwzrY5m/Screenshot-2026-01-24-210320.png
-" height="400" %}
-*Final slab reinforcement layout*
+---
+
+## Final Slab Reinforcement Layout
+The final reinforcement layout integrates all design decisions, including slab thickness,
+bar sizes, spacing, cover requirements, and anchorage detailing.
+
+{% include image-gallery.html images="
+https://i.ibb.co/RkRdr5Cq/final-slab-reinforcement.png
+" height="550" %}
+*Final slab reinforcement detailing*
 
 ---
 
 ## Engineering Conclusion
-The reinforced concrete one-way slab was successfully designed in accordance with
-NZS 3101, satisfying both **strength** and **serviceability** requirements.
+The reinforced concrete one-way slab was designed in accordance with **NZS 3101**,
+satisfying both **strength** and **serviceability** requirements.
 
 Key outcomes:
-- Slab thickness governed by deflection control and constructability
-- Gravity loads assessed using self-weight principles
-- Structural behaviour identified using classical beam theory
-- Reinforcement detailed based on tensile demand and crack control
-- Anchorage and detailing comply with NZS 3101
+- Serviceability-controlled slab thickness  
+- Clear identification of load paths and bending behaviour  
+- Reinforcement sized and detailed for governing moments  
+- Code-compliant anchorage and spacing  
 
-This project demonstrates strong understanding of reinforced concrete behaviour,
-load paths, and practical engineering judgement suitable for real-world application.
+This project demonstrates sound application of reinforced concrete theory, structural
+analysis, and practical detailing suitable for real-world construction.
