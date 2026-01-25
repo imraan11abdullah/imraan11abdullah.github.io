@@ -88,7 +88,7 @@ accordance with NZS 3101.
 
 {% include image-gallery.html images="
 https://i.ibb.co/r2sLcNFV/Positive-bending-negative-bending-and-shear-force-regions.jpg
-" height="600" %}
+" height="700" %}
 *Positive bending, negative bending, and shear force regions*
 
 ---
