@@ -128,20 +128,23 @@ https://i.ibb.co/wNFYZrpQ/Standard-90-Hook-Detailing.png
 Final reinforcement sizes and spacing were selected based on governing bending moments
 at critical slab locations.
 
-| Slab Location | Governing Moment (kN/m) | Bar Size & Spacing |
-|--------------|-------------------------|-------------------|
-| a | −3.25 | D12 @ 260 mm |
-| A | +7.09 | D12 @ 260 mm |
-| b | −7.80 | D16 @ 260 mm |
-| c | −6.07 | D12 @ 260 mm |
-| B | +3.79 | D12 @ 260 mm |
-| d | −5.52 | D12 @ 260 mm |
-| e | −5.52 | D12 @ 260 mm |
-| C | +3.79 | D12 @ 260 mm |
-| f | −6.07 | D12 @ 260 mm |
-| g | −7.80 | D16 @ 260 mm |
-| D | +7.09 | D12 @ 260 mm |
-| h | −3.25 | D12 @ 260 mm |
+## Final Reinforcement Design – Bar Size & Spacing
+
+| Point on Slab | Bending Moment (kN/m) | Bar Size & Spacing |
+|--------------|------------------------|--------------------|
+| <span style="color:red;"><b>a</b></span> | -3.25 | <span style="color:red;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:purple;"><b>A</b></span> | +7.09 | <span style="color:purple;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:green;"><b>b</b></span> | -7.80 | <span style="color:green;"><b>D16 @ 260 mm</b></span> |
+| <span style="color:orange;"><b>c</b></span> | -6.07 | <span style="color:orange;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:blue;"><b>B</b></span> | +3.79 | <span style="color:blue;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:brown;"><b>d</b></span> | -5.52 | <span style="color:brown;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:brown;"><b>e</b></span> | -5.52 | <span style="color:brown;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:blue;"><b>C</b></span> | +3.79 | <span style="color:blue;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:orange;"><b>f</b></span> | -6.07 | <span style="color:orange;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:green;"><b>g</b></span> | -7.80 | <span style="color:green;"><b>D16 @ 260 mm</b></span> |
+| <span style="color:purple;"><b>D</b></span> | +7.09 | <span style="color:purple;"><b>D12 @ 260 mm</b></span> |
+| <span style="color:red;"><b>h</b></span> | -3.25 | <span style="color:red;"><b>D12 @ 260 mm</b></span> |
+
 
 ---
 
