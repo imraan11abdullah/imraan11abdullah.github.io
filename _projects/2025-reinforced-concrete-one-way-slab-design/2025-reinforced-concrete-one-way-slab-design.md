@@ -12,7 +12,7 @@ skills:
   - Serviceability design
   - Structural load analysis
   - Reinforcement detailing
-main-image: /slab-main.jpg
+main-image: /final-slab-reinforcement.png
 ---
 
 ## Structural Layout and One-Way Action
@@ -51,7 +51,7 @@ This thickness:
 
 {% include image-gallery.html images="
 https://i.ibb.co/xqG9xRSs/Adopted-Slab-Thickness.png
-" height="450" %}
+" height="400" %}
 *Adopted slab thickness and reinforcement cover requirements*
 
 ---
@@ -88,7 +88,7 @@ accordance with NZS 3101.
 
 {% include image-gallery.html images="
 https://i.ibb.co/r2sLcNFV/Positive-bending-negative-bending-and-shear-force-regions.jpg
-" height="500" %}
+" height="600" %}
 *Positive bending, negative bending, and shear force regions*
 
 ---
@@ -103,7 +103,7 @@ Reinforcement was classified based on its structural function within the slab sy
 
 {% include image-gallery.html images="
 https://i.ibb.co/BH9GDpvt/Reinforcement-Classification.png
-" height="450" %}
+" height="400" %}
 *Reinforcement classification and structural role*
 
 ---
