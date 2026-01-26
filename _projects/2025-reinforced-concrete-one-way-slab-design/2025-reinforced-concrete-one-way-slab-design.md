@@ -13,8 +13,11 @@ skills:
   - Structural load analysis
   - Reinforcement detailing
 main-image: /final-slab-reinforcement.jpg
+
 ---
-**[CLICK HERE TO VIEW FULL ENGINEERING REINFORCED CONCRETE SLAB DESING REPORT (PDF)](https://drive.google.com/file/d/1jvYYCbebWMkMK0MfMfxxx7L6qEVTiEkA/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
+
+🔗 **[CLICK HERE TO VIEW THE FULL REINFORCED CONCRETE SLAB DESIGN REPORT (PDF)](https://drive.google.com/file/d/1jvYYCbebWMkMK0MfMfxxx7L6qEVTiEkA/view?usp=drive_link){:target="_blank" rel="noopener noreferrer"}**
+
 ---
 
 ## Structural Layout and One-Way Action
