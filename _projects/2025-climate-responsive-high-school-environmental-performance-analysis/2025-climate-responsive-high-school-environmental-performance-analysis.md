@@ -17,7 +17,7 @@ main-image: /final-school-render.jpg
 
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL PROJECT REPORT (PDF)](https://drive.google.com/file/d/1example/view?usp=drive_link){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW THE FULL PROJECT REPORT (PDF)](https://drive.google.com/file/d/1NS95xTX1mWJ6D3MOHylBKgomPxNcribb/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
