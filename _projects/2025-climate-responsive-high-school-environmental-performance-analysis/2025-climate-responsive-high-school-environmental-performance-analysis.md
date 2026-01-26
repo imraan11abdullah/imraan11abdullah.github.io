@@ -17,7 +17,7 @@ main-image: /main3.jpg
 
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL PROJECT REPORT (PDF)](https://drive.google.com/file/d/1NS95xTX1mWJ6D3MOHylBKgomPxNcribb/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW THE FULL PROJECT REPORT (PDF)](https://drive.google.com/file/d/1X4PCf0nrrbF34uDVFuGO7s-md4wdlVry/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
