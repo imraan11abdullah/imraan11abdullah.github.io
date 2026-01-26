@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climate-Responsive High School – Environmental Performance Analysis
+title: Climate-Responsive High School Design – Auckland, NZ
 date: 2025-10-26
 description: >
   Environmental performance analysis and passive design optimization of a two-storey 
@@ -31,7 +31,8 @@ main-image: /final-school-render.jpg
 **Climate:** Warm-temperate oceanic (Cfb) — Summer avg. 23°C; Winter avg. 11°C; ~2,000 annual sunshine hours; prevailing westerly winds 6–12 m/s.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/site-sun-path.png
+https://i.ibb.co/xtgPvt9M/Site-context.png,
+https://i.ibb.co/mC1LD9Tm/annual-sun-path-analysis.png
 " height="400" %}
 *Site context and annual sun path analysis at 36.85° S latitude*
 
@@ -47,7 +48,7 @@ All classrooms oriented to **true north (0° azimuth)** to maximize consistent d
 - North glazing receives stable, indirect light year-round while avoiding direct beam radiation during school hours (9am–3pm)
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/north-facing-classrooms.png
+https://i.ibb.co/PG82B3MV/North-facing-classroom-orientation-with-bay-views.jpg
 " height="450" %}
 *North-facing classroom orientation with bay views*
 
@@ -64,7 +65,8 @@ https://i.ibb.co/example/north-facing-classrooms.png
 - Winter: Permits sun at 30° altitude; allows passive heating
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/shed-roof-overhang.png
+https://i.ibb.co/Lztjzqmb/Shed-roof-with-4-m-overhangs-for-seasonal-solar-control.png,
+https://i.ibb.co/prdfS1JL/Shed-roof-with-4-m-overhangs-for-seasonal-solar-control-2.png
 " height="450" %}
 *Shed roof with 4 m overhangs for seasonal solar control*
 
@@ -86,8 +88,8 @@ Ladybug simulation analyzed cumulative solar exposure (kWh/m²) across all build
 The angled shed roof geometry reduced peak radiation while maintaining adequate winter solar access for passive heating.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/radiation-top-view.png,
-https://i.ibb.co/example/radiation-elevations.png
+https://i.ibb.co/kswyJWbJ/Incident-radiation-analysis.jpg,
+https://i.ibb.co/DHFn1327/Incident-radiation-analysis-2.png
 " height="450" %}
 *Incident radiation analysis: Top view and façade elevations (summer)*
 
@@ -113,8 +115,8 @@ Direct sunlight hour simulations assessed year-round solar exposure across build
 The tiered roof structure and deep overhangs effectively balance direct sun exposure across seasons, preventing overheating in summer while allowing beneficial solar gain in winter.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/sunlight-hours-summer.png,
-https://i.ibb.co/example/sunlight-hours-seasonal.png
+https://i.ibb.co/bgPyvbNh/Direct-sunlight-hour-analysis.jpg,
+https://i.ibb.co/VWqkVhwx/Direct-sunlight-hour-analysis-2.png
 " height="450" %}
 *Direct sunlight hour analysis: Summer performance and seasonal comparison*
 
@@ -143,8 +145,8 @@ https://i.ibb.co/example/sunlight-hours-seasonal.png
 - Estimated 40% reduction in artificial lighting energy consumption
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/daylight-first-floor.png,
-https://i.ibb.co/example/daylight-second-floor.png
+https://i.ibb.co/h1DGkp1L/first-floor-with-heat-map.jpg,
+https://i.ibb.co/ZpLKzbLm/seoconf-floor-with-heatmap.jpg
 " height="450" %}
 *Daylight factor analysis: First floor with louvres and second floor comparison*
 
@@ -165,8 +167,7 @@ https://i.ibb.co/example/daylight-second-floor.png
 The form, shading, and ventilation strategies align with Auckland's climatic conditions, delivering year-round comfort and reduced reliance on mechanical systems.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/climate-dew-point.png,
-https://i.ibb.co/example/climate-wind-speed.png
+https://i.ibb.co/Mx6w6WNG/Annual-dew-point-temperature-and-wind-speed-analysis.jpg
 " height="450" %}
 *Annual dew point temperature and wind speed analysis*
 
@@ -187,7 +188,7 @@ https://i.ibb.co/example/climate-wind-speed.png
 - Tertiary route: North-side entry → main corridor → direct classroom access
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/ground-floor-plan.png
+https://i.ibb.co/Q3QX5Wn8/First-floor-plan.jpg
 " height="600" %}
 *First floor plan with circulation paths and spatial organization*
 
@@ -209,7 +210,7 @@ https://i.ibb.co/example/ground-floor-plan.png
 The second floor spatial arrangement prioritizes natural light, views, and efficient movement while supporting diverse educational activities.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/second-floor-plan.png
+https://i.ibb.co/G48GfVTN/Second-floor.jpg
 " height="600" %}
 *Second floor plan showing skywalk connector and double-height cafeteria*
 
@@ -228,8 +229,8 @@ Section cuts reveal the integrated environmental control strategy through roof g
 These sections demonstrate how passive strategies combine to deliver thermal comfort and natural illumination without mechanical systems.
 
 {% include image-gallery.html images="
-https://i.ibb.co/example/section-north.png,
-https://i.ibb.co/example/section-south.png
+https://i.ibb.co/Zz0sMtXq/Building-sections-North.jpg,
+https://i.ibb.co/ZRbyxvRw/Building-sections-South.jpg
 " height="450" %}
 *Building sections (North and South) showing layered passive design strategy*
 
