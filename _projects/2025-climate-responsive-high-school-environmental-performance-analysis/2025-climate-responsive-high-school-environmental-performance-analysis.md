@@ -13,7 +13,7 @@ skills:
   - Daylight factor analysis
   - Radiation & thermal modeling
   - Revit BIM documentation
-main-image: /final-school-render.jpg
+main-image: /main.jpg
 
 ---
 
