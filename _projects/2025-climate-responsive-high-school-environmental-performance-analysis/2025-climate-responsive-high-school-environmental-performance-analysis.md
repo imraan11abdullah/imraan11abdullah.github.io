@@ -168,7 +168,7 @@ The form, shading, and ventilation strategies align with Auckland's climatic con
 
 {% include image-gallery.html images="
 https://i.ibb.co/Mx6w6WNG/Annual-dew-point-temperature-and-wind-speed-analysis.jpg
-" height="450" %}
+" height="400" %}
 *Annual dew point temperature and wind speed analysis*
 
 ---
