@@ -14,6 +14,8 @@ skills:
   - Reinforcement detailing
 main-image: /final-slab-reinforcement.jpg
 ---
+**[CLICK HERE TO VIEW FULL ENGINEERING REINFORCED CONCRETE SLAB DESING REPORT (PDF)](https://drive.google.com/file/d/1jvYYCbebWMkMK0MfMfxxx7L6qEVTiEkA/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
+---
 
 ## Structural Layout and One-Way Action
 The slab system was classified as a **one-way slab** based on span geometry and support
