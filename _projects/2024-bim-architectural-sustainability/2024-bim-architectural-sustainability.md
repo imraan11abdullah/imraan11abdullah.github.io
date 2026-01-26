@@ -16,7 +16,7 @@ skills:
 main-image: /bim-house.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](https://drive.google.com/file/d/1kkAd-OuyExpHcf9BJrsi1qPVOxHTUXh8/view?usp=drive_link){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW THE FULL BIM & RESEARCH REPORT (PDF)](https://drive.google.com/file/d/1kkAd-OuyExpHcf9BJrsi1qPVOxHTUXh8/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
