@@ -13,7 +13,7 @@ skills:
   - Daylight factor analysis
   - Radiation & thermal modeling
   - Revit BIM documentation
-main-image: /main2.jpg
+main-image: /main3.jpg
 
 ---
 
@@ -209,7 +209,7 @@ Section cuts reveal the integrated environmental control strategy through roof g
 
 These sections demonstrate how passive strategies combine to deliver thermal comfort and natural illumination without mechanical systems.
 
-{% include image-gallery.html images="https://i.ibb.co/GfjDrVyG/Sections-norht-and-south.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/GfjDrVyG/Sections-norht-and-south.jpg" height="700" %}
 *Building sections (North and South) showing layered passive design strategy*
 
 ---
