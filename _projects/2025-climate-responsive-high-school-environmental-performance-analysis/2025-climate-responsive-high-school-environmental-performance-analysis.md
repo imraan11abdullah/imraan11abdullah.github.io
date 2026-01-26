@@ -44,7 +44,7 @@ All classrooms oriented to **true north (0° azimuth)** to maximize consistent d
 - Winter: Sun altitude 30° at midday
 - North glazing receives stable, indirect light year-round while avoiding direct beam radiation during school hours (9am–3pm)
 
-{% include image-gallery.html images="https://i.ibb.co/PG82B3MV/North-facing-classroom-orientation-with-bay-views.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/PG82B3MV/North-facing-classroom-orientation-with-bay-views.jpg" height="600" %}
 *North-facing classroom orientation with bay views*
 
 ---
@@ -172,7 +172,7 @@ The form, shading, and ventilation strategies align with Auckland's climatic con
 - Secondary route: Rear entry → back lobby → staff wing
 - Tertiary route: North-side entry → main corridor → direct classroom access
 
-{% include image-gallery.html images="https://i.ibb.co/Q3QX5Wn8/First-floor-plan.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/Q3QX5Wn8/First-floor-plan.jpg" height="800" %}
 *First floor plan with circulation paths and spatial organization*
 
 ---
@@ -192,7 +192,7 @@ The form, shading, and ventilation strategies align with Auckland's climatic con
 
 The second floor spatial arrangement prioritizes natural light, views, and efficient movement while supporting diverse educational activities.
 
-{% include image-gallery.html images="https://i.ibb.co/G48GfVTN/Second-floor.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/G48GfVTN/Second-floor.jpg" height="800" %}
 *Second floor plan showing skywalk connector and double-height cafeteria*
 
 ---
@@ -209,8 +209,7 @@ Section cuts reveal the integrated environmental control strategy through roof g
 
 These sections demonstrate how passive strategies combine to deliver thermal comfort and natural illumination without mechanical systems.
 
-{% include image-gallery.html images="
-https://i.ibb.co/Zz0sMtXq/Building-sections-North.jpg, https://i.ibb.co/ZRbyxvRw/Building-sections-South.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/GfjDrVyG/Sections-norht-and-south.jpg" height="450" %}
 *Building sections (North and South) showing layered passive design strategy*
 
 ---
