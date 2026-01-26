@@ -73,7 +73,7 @@ Ladybug simulation analyzed cumulative solar exposure (kWh/m²) across all build
 
 | Surface | Radiation (kWh/m²) | Performance Notes |
 |---------|-------------------|-------------------|
-| Roof | 40–55 | 27% reduction vs. flat roof |
+| Roof | 60-66 | 27% reduction vs. flat roof |
 | North façade | 45–50 | Overhang protection effective |
 | East/West | 35–42 | Louvres reduce morning/afternoon gain |
 | South | 25–30 | Minimal exposure |
