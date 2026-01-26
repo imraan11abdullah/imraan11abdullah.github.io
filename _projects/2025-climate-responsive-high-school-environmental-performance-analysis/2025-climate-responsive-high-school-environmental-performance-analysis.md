@@ -99,7 +99,7 @@ Direct sunlight hour simulations assessed year-round solar exposure across build
 
 | Season | Roof Exposure (hrs) | Design Response |
 |--------|---------------------|--------------------|
-| **Summer** | 120–140 | Overhangs block high-angle sun (76°) |
+| **Summer** | 110-123 | Overhangs block high-angle sun (76°) |
 | **Autumn/Spring** | 80–100 | Balanced exposure across orientations |
 | **Winter** | 60–80 | Lower sun (30°) penetrates for passive heating |
 
