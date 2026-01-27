@@ -8,11 +8,17 @@ description: >
   simulations for daylight factor analysis, thermal radiation modeling, and natural 
   ventilation strategies.
 skills:
-  - Environmental simulation (Ladybug Tools)
-  - Passive solar design
-  - Daylight factor analysis
-  - Radiation & thermal modeling
-  - Revit BIM documentation
+  - Building performance simulation (Ladybug/Honeybee)
+  - Solar radiation analysis and thermal modeling
+  - Daylight factor optimization (CIBSE standards)
+  - Natural ventilation and cross-flow analysis
+  - Passive solar design strategies
+  - Building envelope thermal performance
+  - 3D parametric modeling (Rhino/Grasshopper)
+  - BIM documentation and construction detailing (Revit)
+  - Architectural visualization (Twinmotion)
+  - Climate-responsive design
+  - Sustainable building design (NZ standards)
 main-image: /main3.jpg
 
 ---
@@ -230,3 +236,11 @@ The climate-responsive high school design demonstrates successful integration of
 - Twinmotion: Photorealistic visualization for design communication
 
 This project exemplifies how **digital environmental analysis** and **climate-responsive planning** combine to deliver sustainable, comfortable architecture suitable for New Zealand's educational sector.
+
+---
+
+## Final Twinmotion Renders
+Photorealistic visualization developed in Twinmotion to communicate the design's spatial quality, material expression, and environmental integration.
+The renders demonstrate the relationship between interior learning spaces, natural daylight penetration, outdoor courtyards, and the coastal landscape context. Key perspectives include classroom environments, circulation zones, the double-height cafeteria with skylight, and exterior façade articulation showing the shed roof overhang system and louvre shading devices.
+{% include image-gallery.html images="https://i.ibb.co/prQgQQq5/collage1.jpg, https://i.ibb.co/chSyXFLH/collage2.jpg, https://i.ibb.co/1YhD2Q8j/collage3.jpg, https://i.ibb.co/qY6GsjXV/collage4.jpg" height="500" %}
+Final Twinmotion renders: Exterior views, courtyard spaces, classroom interiors, and cafeteria, gym and more
