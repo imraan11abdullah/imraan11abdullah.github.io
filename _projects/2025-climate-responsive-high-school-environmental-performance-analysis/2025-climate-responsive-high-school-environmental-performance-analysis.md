@@ -9,16 +9,12 @@ description: >
   ventilation strategies.
 skills:
   - Building performance simulation (Ladybug/Honeybee)
-  - Solar radiation analysis and thermal modeling
+  - Solar radiation and thermal modeling
   - Daylight factor optimization (CIBSE standards)
-  - Natural ventilation and cross-flow analysis
-  - Passive solar design strategies
-  - Building envelope thermal performance
-  - 3D parametric modeling (Rhino/Grasshopper)
-  - BIM documentation and construction detailing (Revit)
+  - 3D parametric modeling (Rhino)
+  - BIM documentation (Revit)
   - Architectural visualization (Twinmotion)
-  - Climate-responsive design
-  - Sustainable building design (NZ standards)
+  - Passive solar design
 main-image: /main3.jpg
 
 ---
