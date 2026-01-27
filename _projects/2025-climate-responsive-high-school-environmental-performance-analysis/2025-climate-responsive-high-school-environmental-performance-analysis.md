@@ -238,5 +238,5 @@ This project exemplifies how **digital environmental analysis** and **climate-re
 ## Final Twinmotion Renders
 Photorealistic visualization developed in Twinmotion to communicate the design's spatial quality, material expression, and environmental integration.
 The renders demonstrate the relationship between interior learning spaces, natural daylight penetration, outdoor courtyards, and the coastal landscape context. Key perspectives include classroom environments, circulation zones, the double-height cafeteria with skylight, and exterior façade articulation showing the shed roof overhang system and louvre shading devices.
-{% include image-gallery.html images="https://i.ibb.co/prQgQQq5/collage1.jpg, https://i.ibb.co/chSyXFLH/collage2.jpg, https://i.ibb.co/1YhD2Q8j/collage3.jpg, https://i.ibb.co/qY6GsjXV/collage4.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/prQgQQq5/collage1.jpg, https://i.ibb.co/chSyXFLH/collage2.jpg, https://i.ibb.co/1YhD2Q8j/collage3.jpg, https://i.ibb.co/qY6GsjXV/collage4.jpg" height="700" %}
 Final Twinmotion renders: Exterior views, courtyard spaces, classroom interiors, and cafeteria, gym and more
