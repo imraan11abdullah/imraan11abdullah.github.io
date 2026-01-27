@@ -14,7 +14,6 @@ skills:
   - 3D parametric modeling (Rhino)
   - BIM documentation (Revit)
   - Architectural visualization (Twinmotion)
-  - Passive solar design
 main-image: /main3.jpg
 
 ---
