@@ -59,7 +59,7 @@ define member spans, tributary areas, and load paths.
 {% include image-gallery.html images="https://i.ibb.co/GvqMDk40/3-D-BUILDING-VIEW.jpg" height="500" %}
 **Figure 2:** 3D building view showing the overall structural form and industrial scale.
 
-{% include image-gallery.html images="https://i.ibb.co/jP8hpCyd/architectural-florr-plan-1.jpg, https://i.ibb.co/xQ1wYMx/architectural-2-side-view-cross-section.jpg" height="700" %}   
+{% include image-gallery.html images="https://i.ibb.co/jP8hpCyd/architectural-florr-plan-1.jpg, https://i.ibb.co/xQ1wYMx/architectural-2-side-view-cross-section.jpg" height="800" %}   
 **Figure 3:** Architectural floor plans and sections defining spans and load paths.
 
 ---
