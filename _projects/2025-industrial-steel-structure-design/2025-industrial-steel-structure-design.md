@@ -47,7 +47,7 @@ industrial operations requiring:
 The structure was designed to ensure clear load paths from roof and floor systems,
 through steel members, and into the foundations.
 
-{% include image-gallery.html images="https://i.ibb.co/gMFByBps/SITE.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/gMFByBps/SITE.jpg" height="600" %}
 **Figure 1:** Site view illustrating the context and footprint of the industrial development.
 
 ---
@@ -59,7 +59,7 @@ define member spans, tributary areas, and load paths.
 {% include image-gallery.html images="https://i.ibb.co/GvqMDk40/3-D-BUILDING-VIEW.jpg" height="500" %}
 **Figure 2:** 3D building view showing the overall structural form and industrial scale.
 
-{% include image-gallery.html images="https://i.ibb.co/jP8hpCyd/architectural-florr-plan-1.jpg, https://i.ibb.co/5W8hK6Fc/architectural-3.jpg, https://i.ibb.co/bRy1Cg29/architectural-2-side-view-cross-section.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/jP8hpCyd/architectural-florr-plan-1.jpg, https://i.ibb.co/bRy1Cg29/architectural-2-side-view-cross-section.jpg" height="600" %}
 **Figure 3:** Architectural floor plans and sections defining spans and load paths.
 
 ---
@@ -68,7 +68,7 @@ define member spans, tributary areas, and load paths.
 Part A established the **structural strategy**, preliminary sizing, and initial analytical
 model.
 
-{% include image-gallery.html images="https://i.ibb.co/wrsyTpMY/POSTER-1-IMAGE-LINK.jpg" height="550" %}
+{% include image-gallery.html images="https://i.ibb.co/wrsyTpMY/POSTER-1-IMAGE-LINK.jpg" height="800" %}
 **Figure 4:** Part A poster summarising concept design, load paths, and preliminary analysis.
 
 ---
@@ -120,7 +120,7 @@ Fᵢ = V × (Wᵢ × hᵢ) / Σ(W × h)
 ## Load Combinations & Governing ULS Case
 A full set of **ULS and SLS load combinations** was assessed.
 
-{% include image-gallery.html images="https://i.ibb.co/TMtP653f/LOAD-COMBINATION-TABLE-IMAGE.png" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/TMtP653f/LOAD-COMBINATION-TABLE-IMAGE.png" height="500" %}
 **Figure 6:** Load combination table showing governing ULS cases.
 
 ULS combinations were found to govern member and foundation design.
@@ -128,7 +128,7 @@ ULS combinations were found to govern member and foundation design.
 ---
 
 ## Structural Response & Deformed Shape
-{% include image-gallery.html images="https://i.ibb.co/WWBZZkcF/DEFORMED-SHAPE-IMAGE.png" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/WWBZZkcF/DEFORMED-SHAPE-IMAGE.png" height="500" %}
 **Figure 7:** SAP2000 deformed shape under governing ULS loading.
 
 ---
@@ -153,13 +153,13 @@ Combined axial–bending interaction:
 
 (N* / φN_c) + (M* / φM_b) ≤ 1.0
 
-{% include image-gallery.html images="https://i.ibb.co/nsJtp2fz/PMM-INTERACTION-IMAGE.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/nsJtp2fz/PMM-INTERACTION-IMAGE.jpg" height="600" %}
 **Figure 11:** PMM interaction checks for steel columns.
 
 ---
 
 ## Hand Calculations vs SAP2000 Verification
-{% include image-gallery.html images="https://i.ibb.co/Q7H78f09/hand-vs-sap-calacutions.png" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/Q7H78f09/hand-vs-sap-calacutions.png" height="400" %}
 **Figure 12:** Hand calculation verification against SAP2000 results.
 
 ---
@@ -171,16 +171,16 @@ Combined axial–bending interaction:
 ---
 
 ## Foundation Design & Load Transfer
-{% include image-gallery.html images="https://i.ibb.co/DPWp3bn9/FOUNDATION-FORCES.png, https://i.ibb.co/20VgFqWp/FOUNDATION-f-ORCES-2.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/DPWp3bn9/FOUNDATION-FORCES.png" height="600" %} {% include image-gallery.html images="https://i.ibb.co/20VgFqWp/FOUNDATION-f-ORCES-2.jpg" height="450" %}
 **Figure 14:** Foundation reactions extracted from SAP2000.
 
-{% include image-gallery.html images="https://i.ibb.co/PGJnbck8/Geotechnical-Investigation.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/PGJnbck8/Geotechnical-Investigation.jpg" height="600" %}
 **Figure 15:** Geotechnical investigation informing foundation design.
 
 ---
 
 ## Part B – Final Design Resolution
-{% include image-gallery.html images="https://i.ibb.co/38yvBCJ/POSTER-2-IMAGE-LINK.jpg" height="550" %}
+{% include image-gallery.html images="https://i.ibb.co/38yvBCJ/POSTER-2-IMAGE-LINK.jpg" height="800" %}
 **Figure 16:** Part B poster summarising final structural design.
 
 ---
