@@ -153,7 +153,7 @@ Combined axial–bending interaction:
 
 (N* / φN_c) + (M* / φM_b) ≤ 1.0
 
-{% include image-gallery.html images="https://i.ibb.co/nsJtp2fz/PMM-INTERACTION-IMAGE.jpg" height="600" %}
+{% include image-gallery.html images="https://i.ibb.co/nsJtp2fz/PMM-INTERACTION-IMAGE.jpg" height="800" %}
 **Figure 11:** PMM interaction checks for steel columns.
 
 ---
