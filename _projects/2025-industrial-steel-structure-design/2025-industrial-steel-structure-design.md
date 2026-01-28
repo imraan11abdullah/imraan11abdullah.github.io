@@ -68,7 +68,7 @@ define member spans, tributary areas, and load paths.
 Part A established the **structural strategy**, preliminary sizing, and initial analytical
 model.
 
-{% include image-gallery.html images="https://i.ibb.co/wrsyTpMY/POSTER-1-IMAGE-LINK.jpg" height="800" %}
+{% include image-gallery.html images="https://i.ibb.co/wrsyTpMY/POSTER-1-IMAGE-LINK.jpg" height="1300" %}
 **Figure 4:** Part A poster summarising concept design, load paths, and preliminary analysis.
 
 ---
@@ -180,7 +180,7 @@ Combined axial–bending interaction:
 ---
 
 ## Part B – Final Design Resolution
-{% include image-gallery.html images="https://i.ibb.co/38yvBCJ/POSTER-2-IMAGE-LINK.jpg" height="800" %}
+{% include image-gallery.html images="https://i.ibb.co/38yvBCJ/POSTER-2-IMAGE-LINK.jpg" height="1300" %}
 **Figure 16:** Part B poster summarising final structural design.
 
 ---
