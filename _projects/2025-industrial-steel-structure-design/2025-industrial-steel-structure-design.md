@@ -17,7 +17,7 @@ skills:
 main-image: https://i.ibb.co/GvqMDk40/3-D-BUILDING-VIEW.jpg
 ---
 
-🔗 **[CLICK HERE TO VIEW FULL INDUSTRIAL ENGINEERING REPORT (PDF)](PASTE_YOUR_PDF_LINK_HERE){:target="_blank" rel="noopener noreferrer"}**
+🔗 **[CLICK HERE TO VIEW FULL INDUSTRIAL ENGINEERING REPORT (PDF)](https://drive.google.com/file/d/1JFnpou6KvRdqdwE34le8UJ26Az6DDthq/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
