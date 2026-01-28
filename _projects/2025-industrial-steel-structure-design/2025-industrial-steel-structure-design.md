@@ -14,7 +14,11 @@ skills:
   - ULS & SLS load combinations
   - Axial, bending & shear interaction
   - Foundation design & Revit coordination
-main-image: /3D_BUILDING_VIEW.jpg
+main-image: https://i.ibb.co/GvqMDk40/3-D-BUILDING-VIEW.jpg
+---
+
+🔗 **[CLICK HERE TO VIEW FULL INDUSTRIAL ENGINEERING REPORT (PDF)](PASTE_YOUR_PDF_LINK_HERE){:target="_blank" rel="noopener noreferrer"}**
+
 ---
 
 ## Project Introduction
@@ -43,7 +47,7 @@ industrial operations requiring:
 The structure was designed to ensure clear load paths from roof and floor systems,
 through steel members, and into the foundations.
 
-> *(Insert SITE view image here)*  
+{% include image-gallery.html images="https://i.ibb.co/gMFByBps/SITE.jpg" height="450" %}
 **Figure 1:** Site view illustrating the context and footprint of the industrial development.
 
 ---
@@ -52,8 +56,11 @@ through steel members, and into the foundations.
 The overall building form and layout were developed prior to structural analysis to
 define member spans, tributary areas, and load paths.
 
-> *(Insert 3D BUILDING VIEW image here)*  
+{% include image-gallery.html images="https://i.ibb.co/GvqMDk40/3-D-BUILDING-VIEW.jpg" height="500" %}
 **Figure 2:** 3D building view showing the overall structural form and industrial scale.
+
+{% include image-gallery.html images="https://i.ibb.co/jP8hpCyd/architectural-florr-plan-1.jpg, https://i.ibb.co/5W8hK6Fc/architectural-3.jpg, https://i.ibb.co/bRy1Cg29/architectural-2-side-view-cross-section.jpg" height="450" %}
+**Figure 3:** Architectural floor plans and sections defining spans and load paths.
 
 ---
 
@@ -61,8 +68,8 @@ define member spans, tributary areas, and load paths.
 Part A established the **structural strategy**, preliminary sizing, and initial analytical
 model.
 
-> *(Insert Poster 1 image here)*  
-**Figure 3:** Part A poster summarising concept design, load paths, and preliminary analysis.
+{% include image-gallery.html images="https://i.ibb.co/wrsyTpMY/POSTER-1-IMAGE-LINK.jpg" height="550" %}
+**Figure 4:** Part A poster summarising concept design, load paths, and preliminary analysis.
 
 ---
 
@@ -76,8 +83,8 @@ The model included:
 - Mass distribution based on tributary areas
 - Load cases per NZS 1170
 
-> *(Insert SAP_MODEL_IMAGE_LINK here)*  
-**Figure 4:** SAP2000 analytical model used for structural analysis.
+{% include image-gallery.html images="https://i.ibb.co/TBg3nBKM/SAP-MODEL-IMAGE-LINK.png" height="500" %}
+**Figure 5:** SAP2000 analytical model used for structural analysis.
 
 ---
 
@@ -92,7 +99,7 @@ Live loads were applied in accordance with **NZS 1170.1** for industrial occupan
 
 Load on members was calculated using tributary area methods:
 
-Q = q × A_tributary
+Q = q × Aₜ
 
 ---
 
@@ -100,147 +107,90 @@ Q = q × A_tributary
 Wind actions were calculated in accordance with **NZS 1170.2**, while seismic actions
 were derived per **NZS 1170.5**.
 
-Earthquake base shear was determined using:
+Earthquake base shear:
 
-V = C(T) × W_t
+V = C(T) × Wₜ  
 
 Vertical distribution:
 
-F_i = V × (W_i × h_i) / Σ(W × h)
-
-Both wind and earthquake loads were applied in orthogonal directions.
+Fᵢ = V × (Wᵢ × hᵢ) / Σ(W × h)
 
 ---
 
 ## Load Combinations & Governing ULS Case
 A full set of **ULS and SLS load combinations** was assessed.
 
-ULS combinations included:
-- 1.2G + 1.5Q
-- G + Q + W
-- G + Q + E
+{% include image-gallery.html images="https://i.ibb.co/TMtP653f/LOAD-COMBINATION-TABLE-IMAGE.png" height="450" %}
+**Figure 6:** Load combination table showing governing ULS cases.
 
-It was found that **ULS load combinations governed the design**, producing the
-maximum member actions.
-
-> *(Insert LOAD_COMBINATION_TABLE_IMAGE here)*  
-**Figure 5:** Load combination table showing governing ULS cases.
+ULS combinations were found to govern member and foundation design.
 
 ---
 
 ## Structural Response & Deformed Shape
-Structural behaviour under governing ULS loading was assessed to verify stability,
-drift, and load distribution.
-
-> *(Insert DEFORMED_SHAPE_IMAGE here)*  
-**Figure 6:** SAP2000 deformed shape under governing ULS loading.
+{% include image-gallery.html images="https://i.ibb.co/WWBZZkcF/DEFORMED-SHAPE-IMAGE.png" height="450" %}
+**Figure 7:** SAP2000 deformed shape under governing ULS loading.
 
 ---
 
 ## SAP2000 Member Actions (ULS)
-For the governing ULS case, the following member actions were extracted:
 
-- Axial force (N)
-- Major-axis bending moment (M3)
-- Shear force (V2)
+{% include image-gallery.html images="https://i.ibb.co/DHsm0313/AXIAL.jpg" height="450" %}
+**Figure 8:** Axial force distribution from SAP2000 (ULS).
 
-Only worst-case ULS envelopes were used for design.
+{% include image-gallery.html images="https://i.ibb.co/chzz44w2/MOMENT-3-3.jpg" height="450" %}
+**Figure 9:** Major-axis bending moment (M3) envelope under ULS.
 
-> *(Insert AXIAL sap2000 image here)*  
-**Figure 7:** Axial force distribution from SAP2000 (ULS).
-
-> *(Insert MOMENT 3-3 image here)*  
-**Figure 8:** Major-axis bending moment (M3) envelope under ULS.
-
-> *(Insert Shear 2-2 image here)*  
-**Figure 9:** Shear force (V2) envelope under ULS.
+{% include image-gallery.html images="https://i.ibb.co/W4fbSq9Y/Shear-2-2.png" height="450" %}
+**Figure 10:** Shear force (V2) envelope under ULS.
 
 ---
 
 ## Steel Member Design (AS 4100)
-
-### Beam and Column Design
 Steel members were designed in accordance with **AS 4100**.
 
-Beam checks:
-- M* ≤ φM_b  
-- V* ≤ φV_v  
-
-Column interaction check:
+Combined axial–bending interaction:
 
 (N* / φN_c) + (M* / φM_b) ≤ 1.0
 
-> *(Insert PMM_INTERACTION_IMAGE here)*  
-**Figure 10:** PMM interaction check confirming column adequacy under ULS.
+{% include image-gallery.html images="https://i.ibb.co/nsJtp2fz/PMM-INTERACTION-IMAGE.jpg" height="450" %}
+**Figure 11:** PMM interaction checks for steel columns.
 
 ---
 
 ## Hand Calculations vs SAP2000 Verification
-Key member actions and capacities were verified using **hand calculations** to
-cross-check SAP2000 results.
-
-> *(Insert hand vs sap calculations image here)*  
-**Figure 11:** Comparison between hand calculations and SAP2000 outputs.
+{% include image-gallery.html images="https://i.ibb.co/Q7H78f09/hand-vs-sap-calacutions.png" height="450" %}
+**Figure 12:** Hand calculation verification against SAP2000 results.
 
 ---
 
 ## Steel Connection Design
-Steel connections were designed to safely transfer:
-- Axial forces
-- Shear forces
-- Bending moments
-
-Connections were detailed to ensure **ductile member behaviour governs**.
-
-> *(Insert CONNETCTION steel image here)*  
-**Figure 12:** Steel connection detailing and force transfer.
+{% include image-gallery.html images="https://i.ibb.co/LhcBFwpT/CONNETCTION.jpg" height="450" %}
+**Figure 13:** Steel connection detailing and force transfer.
 
 ---
 
 ## Foundation Design & Load Transfer
-Column reactions from SAP2000 were used for foundation design, including:
-- Axial load
-- Overturning moment
-- Shear force
+{% include image-gallery.html images="https://i.ibb.co/DPWp3bn9/FOUNDATION-FORCES.png, https://i.ibb.co/20VgFqWp/FOUNDATION-f-ORCES-2.jpg" height="450" %}
+**Figure 14:** Foundation reactions extracted from SAP2000.
 
-Bearing pressure:
-
-q = N / A
-
-Sliding and overturning checks were also carried out.
-
-> *(Insert FOUNDATION_FORCES and layoutplan image here)*  
-**Figure 13:** Foundation reactions and layout plan.
-
-> *(Insert FOUNDATION_FORCES_2 closer look image here)*  
-**Figure 14:** Detailed view of foundation forces from SAP2000.
-
----
-
-## Ground Conditions
-Foundation design was informed by the geotechnical investigation.
-
-> *(Insert Geotechnical Investigation image here)*  
-**Figure 15:** Summary of subsurface conditions informing foundation design.
+{% include image-gallery.html images="https://i.ibb.co/PGJnbck8/Geotechnical-Investigation.jpg" height="450" %}
+**Figure 15:** Geotechnical investigation informing foundation design.
 
 ---
 
 ## Part B – Final Design Resolution
-Part B consolidated all analysis into a **final coordinated structural solution**,
-including final member sizing, connection checks, and foundation design.
-
-> *(Insert Poster 2 image here)*  
-**Figure 16:** Part B poster summarising final structural design and verification.
+{% include image-gallery.html images="https://i.ibb.co/38yvBCJ/POSTER-2-IMAGE-LINK.jpg" height="550" %}
+**Figure 16:** Part B poster summarising final structural design.
 
 ---
 
 ## Engineering Conclusion
 This project demonstrates:
-- Full structural design workflow from concept to final design
-- Governing ULS identification using SAP2000
-- Steel member and connection design to AS 4100
-- Wind and seismic assessment to NZS 1170
+- End-to-end structural design capability
+- Governing ULS identification and verification
+- Steel member and connection design to **AS 4100**
+- Wind and seismic design to **NZS 1170**
 - Integrated foundation design and coordination
 
-It represents the **most technically rigorous and industry-aligned project** in my
-portfolio.
+It represents the **technical pinnacle of my engineering portfolio**.
