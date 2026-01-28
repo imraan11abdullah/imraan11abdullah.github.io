@@ -171,7 +171,7 @@ Combined axial–bending interaction:
 ---
 
 ## Foundation Design & Load Transfer
-{% include image-gallery.html images="https://i.ibb.co/DPWp3bn9/FOUNDATION-FORCES.png" height="600" %} {% include image-gallery.html images="https://i.ibb.co/20VgFqWp/FOUNDATION-f-ORCES-2.jpg" height="450" %}
+{% include image-gallery.html images="https://i.ibb.co/DPWp3bn9/FOUNDATION-FORCES.png" height="700" %} {% include image-gallery.html images="https://i.ibb.co/20VgFqWp/FOUNDATION-f-ORCES-2.jpg" height="450" %}
 **Figure 14:** Foundation reactions extracted from SAP2000.
 
 {% include image-gallery.html images="https://i.ibb.co/PGJnbck8/Geotechnical-Investigation.jpg" height="600" %}
