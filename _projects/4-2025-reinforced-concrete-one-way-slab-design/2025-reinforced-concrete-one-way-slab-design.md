@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reinforced Concrete One-Way Slab Design
-date: 2025-06-06
+date: 2023-06-06
 order: 4
 description: >
   Structural design of a reinforced concrete one-way slab in accordance with NZS 3101,
