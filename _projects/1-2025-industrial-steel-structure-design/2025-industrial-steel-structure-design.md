@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Industrial Steel Structure Design – Industry Project (Part A + Part B)
-date: 2025-10-01
+date: 2020-10-01
 order: 1
 description: >
   Comprehensive structural engineering design of an industrial steel building,
