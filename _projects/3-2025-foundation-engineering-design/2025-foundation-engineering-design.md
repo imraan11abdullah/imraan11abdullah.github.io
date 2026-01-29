@@ -2,6 +2,7 @@
 layout: post
 title: Foundation Engineering Design - 4-Story Apartment Building
 date: 2025-06-06
+order: 3
 description: >
   Comprehensive geotechnical analysis and foundation design for a 4-story concrete 
   apartment building, including load calculations, settlement analysis, and seismic design.
