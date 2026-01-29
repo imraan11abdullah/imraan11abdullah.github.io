@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BIM-Based Architectural Design and Passive Sustainability Analysis
+title: BIM-Based Architectural Design and Passive Sustainability Analysis (2024)
 date: 2024-06-02
 order: 5
 description: >
