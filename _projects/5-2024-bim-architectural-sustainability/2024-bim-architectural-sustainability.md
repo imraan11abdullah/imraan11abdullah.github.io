@@ -2,6 +2,7 @@
 layout: post
 title: BIM-Based Architectural Design and Passive Sustainability Analysis
 date: 2024-06-02
+order: 5
 description: >
   A university project focused on applying Building Information Modelling (BIM) to
   architectural design, with emphasis on passive design strategies, indoor
