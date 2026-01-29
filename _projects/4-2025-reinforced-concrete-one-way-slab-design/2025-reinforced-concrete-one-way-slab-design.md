@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinforced Concrete One-Way Slab Design
+title: Reinforced Concrete One-Way Slab Design (2025)
 date: 2023-06-06
 order: 4
 description: >
