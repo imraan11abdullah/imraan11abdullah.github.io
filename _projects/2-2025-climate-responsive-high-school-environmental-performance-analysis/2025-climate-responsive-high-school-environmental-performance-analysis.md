@@ -2,6 +2,7 @@
 layout: post
 title: Climate-Responsive High School Design – Auckland, NZ
 date: 2025-10-26
+order: 2
 description: >
   Environmental performance analysis and passive design optimization of a two-storey 
   climate-responsive high school in Auckland, utilizing Revit & Rhino/Ladybug environmental 
