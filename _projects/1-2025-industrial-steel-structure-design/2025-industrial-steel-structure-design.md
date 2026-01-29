@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Industrial Steel Structure Design – Industry Project (Part A + Part B)
+title: Industrial Steel Structure Design – Industry Project (2025)
 date: 2020-10-01
-order: 1
 description: >
   Comprehensive structural engineering design of an industrial steel building,
   including architectural coordination, gravity, wind and seismic loading,
