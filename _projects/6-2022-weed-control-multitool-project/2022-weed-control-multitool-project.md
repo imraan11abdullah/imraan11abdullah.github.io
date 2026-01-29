@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Human-Centred Design of a Manual Weed Control Multi-Tool
+title: Human-Centred Design of a Manual Weed Control Multi-Tool (2022)
 date: 2025-10-01
-order: 6
 description: >
   A first-year engineering design project completed as part of the Engineers Without
   Borders Challenge, focused on developing a low-cost, manually operated weed control
