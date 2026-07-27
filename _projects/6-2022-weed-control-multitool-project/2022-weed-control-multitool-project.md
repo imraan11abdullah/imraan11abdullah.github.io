@@ -69,7 +69,7 @@ SolidWorks was used to:
 - Assess form, fit, and basic functionality  
 - Produce supporting drawings for communication  
 
-{% include image-gallery.html images="https://i.ibb.co/Pss9yp0c/weed-tool-drawings.jpg, https://i.ibb.co/fzbkK37m/weed-tool-final.jpg, https://i.ibb.co/9H39mBJy/weed-tools.jpg" height="500" %}
+{% include image-gallery.html images="https://i.ibb.co/ZzjDZHJM/weed-tool-drawings.jpg, https://i.ibb.co/js9b2DT/weed-tool-final.jpg, https://i.ibb.co/YFB2V75z/weed-tools.jpg" height="500" %}
 
 
 ---
@@ -79,7 +79,7 @@ This project was completed under the **Engineers Without Borders Challenge**, wh
 aims to develop socially responsible engineers by addressing real-world problems faced
 by communities globally.
 
-{% include image-gallery.html images="https://i.ibb.co/TDR21WKH/engineers-without-borders-logo.png" height="300" %}
+{% include image-gallery.html images="https://i.ibb.co/vvYydzww/engineers-without-borders-logo.png" height="300" %}
 
 🔗 **[Engineers Without Borders Australia](https://www.ewb.org.au){:target="_blank" rel="noopener noreferrer"}**
 
